@@ -1,0 +1,851 @@
+CustomerID,Age,Gender,Location,MembershipLevel,TotalPurchases,TotalSpent,FavoriteCategory,LastPurchaseDate,Occupation,FrequencyOfWebsiteVisits,Churn,Delivery_Charges
+27650,52,Male,Zhengzhou,Bronze,5,961.67,Home Goods,2023/7/27 22:00,Student,28,0,6.5
+11190,68,Female,Jinan,Bronze,6,2006.46,Electronics,2023/1/3 6:42,Self-Employed,19,0,6.5
+92598,65,Female,Beijing,Silver,2,1358.83,Electronics,2023/11/26 19:39,Professional,14,1,6.5
+87339,50,Female,Wuxi,Gold,8,450.86,Electronics,2023/3/28 3:58,Retired,26,0,6.5
+71260,28,Female,Xi'an,Gold,3,2302.74,Clothing,2023/6/30 11:20,Self-Employed,11,0,6.5
+30224,36,Male,Changchun,Platinum,8,1824.83,Home Goods,2023/1/24 12:45,Retired,12,0,6.5
+70003,42,Male,Xiamen,Silver,3,971.44,Electronics,2023/5/4 19:42,Retired,1,0,6.5
+52159,56,Male,Qingdao,Silver,8,452.6,Home Goods,2023/3/29 12:27,Retired,21,0,6.5
+37738,46,Male,Hangzhou,Platinum,6,115.35,Electronics,2023/4/1 21:29,Professional,20,0,6.5
+70695,21,Female,Nanjing,Platinum,2,788.4,Electronics,2023/4/8 14:09,Student,18,0,6.5
+54245,23,Female,Guangzhou,Platinum,8,135.85,Home Goods,2023/8/18 7:05,Unemployed,9,0,6.5
+75793,24,Female,Dalian,Silver,8,47.13,Home Goods,2023/3/1 8:12,Retired,26,0,6.5
+58909,41,Male,Beijing,Platinum,8,1281.89,Home Goods,2023/12/15 22:27,Student,7,1,6.5
+85380,60,Male,Hefei,Gold,7,691.03,Electronics,2023/9/10 6:56,Self-Employed,2,1,6.5
+74050,50,Female,Dalian,Bronze,5,109.26,Clothing,2023/10/19 21:08,Student,22,0,6.5
+79692,64,Male,Xi'an,Bronze,7,158.97,Electronics,2023/2/8 4:56,Retired,21,0,6.5
+18013,35,Female,Xiamen,Gold,8,1876.47,Electronics,2023/6/6 20:37,Unemployed,14,0,6.5
+72942,65,Male,Guangzhou,Gold,2,1157.76,Electronics,2023/3/5 2:18,Retired,7,1,6.5
+35025,23,Female,Chengdu,Bronze,3,81.07,Electronics,2023/10/21 12:17,Student,10,1,6.5
+15552,31,Male,Changchun,Bronze,1,377.22,Home Goods,2023/11/11 21:55,Unemployed,19,1,6.5
+36078,54,Female,Kunming,Gold,5,2504.69,Home Goods,2023/2/26 9:46,Unemployed,10,1,6.5
+19640,42,Female,Guangzhou,Bronze,3,2608.2,Electronics,2023/11/23 4:49,Self-Employed,9,0,6.5
+30606,29,Male,Shenyang,Gold,6,429.51,Clothing,2023/10/7 11:06,Professional,26,0,6.5
+64749,68,Female,Shanghai,Gold,8,175.04,Home Goods,2023/11/3 13:58,Self-Employed,19,0,6.5
+92447,58,Male,Nanchang,Bronze,8,1454.15,Electronics,2023/3/7 17:13,Self-Employed,11,0,6.5
+31714,36,Female,Beijing,Gold,8,146.15,Home Goods,2023/11/13 11:57,Retired,23,0,6.5
+30676,26,Male,Taiyuan,Silver,7,812.46,Electronics,2023/4/21 21:35,Professional,9,0,102.79
+30657,18,Male,Guangzhou,Silver,5,416.19,Electronics,2023/12/23 12:30,Retired,10,1,102.79
+86803,66,Male,Qingdao,Platinum,2,2001.87,Home Goods,2023/12/12 1:44,Self-Employed,24,1,102.79
+46692,41,Female,Wuxi,Gold,1,242.95,Electronics,2023/1/7 1:28,Student,6,1,102.79
+55900,59,Male,Xi'an,Bronze,4,871.89,Clothing,2023/1/16 16:14,Retired,1,0,102.79
+43885,31,Male,Guangzhou,Silver,6,1910.43,Electronics,2023/3/29 9:32,Student,5,0,6.5
+51986,62,Male,Nanchang,Platinum,6,639.05,Home Goods,2023/11/2 19:24,Self-Employed,3,1,6.5
+49550,65,Female,Kunming,Bronze,6,784.48,Electronics,2023/7/18 14:16,Self-Employed,19,1,6.5
+11531,29,Male,Shenyang,Bronze,5,708.85,Electronics,2023/8/13 12:11,Unemployed,16,0,6.5
+20538,38,Male,Qingdao,Silver,3,13.71,Electronics,2023/5/8 12:32,Self-Employed,27,0,6.5
+99927,59,Female,Harbin,Gold,6,906.54,Home Goods,2023/8/11 19:54,Retired,7,0,6.5
+27890,51,Male,Tianjin,Gold,8,2076.92,Home Goods,2023/10/24 10:28,Unemployed,21,0,6.5
+20995,67,Female,Wuxi,Platinum,6,2.35,Clothing,2023/1/16 6:59,Student,14,1,6.5
+37708,47,Female,Jinan,Silver,6,618.49,Home Goods,2023/4/8 12:51,Professional,10,0,6.5
+64703,60,Female,Hangzhou,Platinum,7,199.44,Clothing,2023/6/3 17:04,Unemployed,19,0,6.5
+31942,60,Female,Qingdao,Silver,3,156.48,Electronics,2023/11/19 14:18,Student,29,0,6.5
+29936,31,Female,Tianjin,Bronze,3,2547.69,Home Goods,2023/6/28 18:19,Retired,3,0,6.5
+16482,37,Female,Nanchang,Gold,6,1459.02,Electronics,2023/8/25 6:49,Student,14,0,6.5
+81166,55,Male,Nanchang,Gold,6,442.64,Electronics,2023/8/8 1:20,Professional,3,1,6.5
+55615,41,Male,Xi'an,Silver,5,1490.97,Electronics,2023/7/11 21:26,Self-Employed,10,0,6.5
+24051,44,Male,Chengdu,Silver,5,364.84,Electronics,2023/11/11 20:47,Self-Employed,2,1,6.5
+68609,56,Female,Harbin,Gold,5,340.08,Clothing,2023/9/3 23:41,Professional,20,0,6.5
+14702,67,Male,Guangzhou,Silver,5,3037.92,Electronics,2023/1/6 0:51,Student,29,0,6.5
+35303,18,Male,Wuxi,Bronze,11,360.17,Home Goods,2023/9/7 14:23,Retired,25,0,6.5
+27915,65,Female,Changchun,Silver,3,92.84,Clothing,2023/10/20 23:52,Professional,29,0,6.5
+38198,54,Female,Qingdao,Gold,6,2032.33,Clothing,2023/1/16 2:00,Self-Employed,2,0,6.5
+58936,58,Female,Quanzhou,Gold,2,232.97,Clothing,2023/9/3 1:20,Professional,12,0,6.5
+85992,18,Male,Quanzhou,Bronze,7,1011.02,Clothing,2023/9/6 8:57,Professional,28,1,6.5
+87458,,Male,Xi'an,Silver,5,911.29,Clothing,2023/4/13 22:03,Unemployed,22,0,6.5
+14419,33,Female,Xiamen,Bronze,6,216.53,Home Goods,2023/7/19 12:50,Student,20,0,6.5
+90527,40,Female,Nanchang,Bronze,3,33.83,Home Goods,2023/7/18 3:06,Unemployed,25,0,6.5
+56889,58,Male,Shenzhen,Silver,6,2987.02,Clothing,2023/3/21 2:31,Professional,3,1,6.5
+97463,44,Male,Xiamen,Platinum,4,799.47,Electronics,2023/5/5 22:25,Retired,16,0,6.5
+61762,21,Female,Zhengzhou,Platinum,6,191.36,Home Goods,2023/2/10 12:41,Unemployed,3,0,6.5
+99061,69,Female,Chengdu,Platinum,6,1912.31,Electronics,2023/7/22 18:35,Self-Employed,14,0,6.5
+99072,67,Female,Wuxi,Platinum,7,680.43,Electronics,2023/12/23 1:42,Self-Employed,1,1,6.5
+49187,35,Female,Hefei,Silver,6,3436.43,Electronics,2023/8/12 21:27,Student,28,0,6.5
+87679,33,Female,Urumqi,Platinum,2,78.29,Electronics,2023/12/14 12:45,Unemployed,29,0,6.5
+72550,49,Female,Wuhan,Silver,8,979.56,Home Goods,2023/6/7 0:50,Student,15,0,28.78
+34054,25,Male,Nanjing,Bronze,5,568.38,Clothing,2023/5/25 13:53,Professional,6,0,6.5
+31873,55,Female,Shenyang,Gold,5,2445.19,Clothing,2023/1/23 11:10,Student,3,0,6.5
+65419,55,Male,Shijiazhuang,Platinum,4,343.92,Clothing,2023/2/5 10:24,Retired,21,1,6.5
+32501,26,Male,Chengdu,Gold,3,10.12,Clothing,2023/12/14 3:47,Unemployed,22,1,6.5
+82064,63,Female,Qingdao,Silver,6,357.89,Home Goods,2023/1/11 16:50,Unemployed,27,0,6.5
+82343,,Female,Zhengzhou,Platinum,6,1491.18,Clothing,2023/5/7 15:53,Student,25,0,6.5
+70113,40,Male,Dalian,Bronze,3,982.39,Electronics,2023/3/20 16:12,Unemployed,20,1,6.5
+95248,36,Male,Quanzhou,Bronze,6,2495.02,Clothing,2023/12/16 7:05,Student,29,0,6.5
+63867,67,Male,Urumqi,Platinum,2,443.3,Electronics,2023/5/11 8:50,Professional,23,0,6.5
+48640,64,Male,Changchun,Silver,3,1123.07,Home Goods,2023/10/7 16:35,Professional,2,0,6.5
+35766,33,Male,Shanghai,Gold,6,639.6,Home Goods,2023/10/25 17:03,Retired,8,0,6.5
+11870,27,Male,Fuzhou,Gold,3,1344.82,Electronics,2023/7/27 20:08,Unemployed,13,0,6.5
+47594,43,Male,Hefei,Platinum,4,564.76,Electronics,2023/9/19 0:32,Retired,9,0,6.5
+97807,66,Female,Changsha,Silver,5,822.78,Clothing,2023/6/16 21:56,Unemployed,27,1,6.5
+10190,31,Male,Guangzhou,Silver,8,521.83,Clothing,2023/4/16 9:34,Professional,23,0,6.5
+18641,45,Male,Beijing,Silver,5,1018.49,Electronics,2023/8/13 14:19,Retired,12,0,6.5
+59327,30,Female,Nanjing,Platinum,9,606.66,Clothing,2023/7/31 16:41,Self-Employed,10,1,6.5
+49192,60,Female,Shanghai,Bronze,3,183.14,Home Goods,2023/12/2 3:32,Professional,28,0,6.5
+43945,43,Male,Shenzhen,Silver,4,181.34,Home Goods,2023/10/10 8:01,Retired,26,0,6.5
+79790,19,Female,Jinan,Silver,9,372,Electronics,2023/10/12 2:14,Self-Employed,7,0,6.5
+54541,45,Female,Changsha,Bronze,6,835.89,Clothing,2023/2/10 3:12,Student,23,0,6.5
+87207,40,Female,Taiyuan,Bronze,4,1570.08,Clothing,2023/4/30 20:33,Professional,26,0,6.5
+79849,43,Female,Guangzhou,Silver,6,2433.39,Clothing,2023/10/5 11:59,Professional,29,0,6.5
+36572,69,Female,Dalian,Silver,4,47.82,Electronics,2023/9/23 20:16,Self-Employed,4,0,6.5
+83194,19,Female,Qingdao,Platinum,1,145.99,Clothing,2023/8/11 16:04,Professional,16,1,6.5
+63482,19,Male,Shijiazhuang,Silver,3,100.39,Home Goods,2023/10/30 0:50,Student,8,0,6.5
+30892,29,Male,Tianjin,Platinum,2,3686.41,Clothing,2023/10/11 12:45,Student,14,1,6.5
+33857,59,Male,Guangzhou,Gold,5,3700.05,Home Goods,2023/4/29 18:21,Student,12,0,8.7
+86071,52,Male,Shijiazhuang,Gold,8,61.16,Home Goods,2023/1/1 0:55,Self-Employed,12,1,8.7
+28759,41,Male,Shijiazhuang,Bronze,9,2777.89,Electronics,2023/4/30 11:01,Self-Employed,29,1,6.5
+35901,18,Male,Shanghai,Gold,5,493.39,Electronics,2023/2/14 12:08,Self-Employed,27,0,6.5
+63901,64,Female,Nanjing,Gold,6,780.8,Clothing,2023/10/19 3:36,Retired,9,0,6.5
+85681,,nan,Nanchang,Bronze,6,1884.21,Electronics,2023/4/2 20:46,Unemployed,9,0,6.5
+81402,31,Male,Xi'an,Gold,5,1049.45,Clothing,2023/6/2 13:29,Student,10,1,6.5
+75538,32,Male,Wuhan,Gold,6,110.47,Electronics,2023/8/6 20:25,Professional,23,0,6.5
+17328,32,Male,Qingdao,Silver,5,387.19,Clothing,2023/5/30 15:43,Retired,9,0,6.5
+41770,43,Female,Changchun,Gold,3,677.19,Clothing,2023/7/3 8:49,Self-Employed,18,1,8.7
+36756,22,Female,Guangzhou,Gold,10,541.73,Electronics,2023/11/1 12:41,Student,6,0,8.7
+60927,64,Female,Harbin,Bronze,8,2474.9,Electronics,2023/8/25 5:26,Self-Employed,3,0,6.5
+40035,35,Female,Shanghai,Platinum,1,2836.46,Home Goods,2023/11/9 0:06,Professional,13,0,6.5
+72603,44,Male,Jinan,Bronze,6,2740.6,Electronics,2023/12/12 17:24,Retired,3,0,6.5
+10879,33,Male,Quanzhou,Silver,4,206.12,Electronics,2023/5/21 9:48,Self-Employed,11,1,6.5
+97360,68,Male,Kunming,Platinum,11,313.89,Clothing,2023/2/8 18:19,Student,2,0,6.5
+77567,42,Female,Xiamen,Silver,5,178.77,Electronics,2023/9/27 10:31,Retired,1,0,6.5
+25789,54,Male,Kunming,Platinum,6,542.34,Home Goods,2023/4/15 0:15,Self-Employed,17,1,6.5
+65611,18,Female,Chongqing,Bronze,9,162.13,Clothing,2023/3/24 23:34,Unemployed,16,0,6.5
+80443,58,Male,Tianjin,Silver,6,145.46,Clothing,2023/4/15 19:53,Professional,18,1,8.7
+71370,50,Male,Tianjin,Bronze,6,1578.84,Electronics,2023/10/30 23:03,Retired,5,1,8.7
+34235,22,Female,Dalian,Platinum,2,693.59,Clothing,2023/10/10 10:00,Retired,2,1,6.5
+92281,53,Male,Shijiazhuang,Gold,6,3330.12,Electronics,2023/2/23 7:13,Self-Employed,23,0,6.5
+49196,38,Female,Qingdao,Silver,1,132.57,Home Goods,2023/9/17 1:06,Retired,1,0,6.5
+18249,32,Female,Shanghai,Bronze,4,876.42,Electronics,2023/7/8 16:34,Self-Employed,26,0,6.5
+56154,47,Male,Harbin,Gold,2,367.02,Clothing,2023/1/2 10:02,Professional,19,0,6.5
+84346,44,Male,Kunming,Bronze,5,885.71,Clothing,2023/8/8 1:19,Student,26,0,6.5
+61708,53,Female,Qingdao,Bronze,5,315.27,Clothing,2023/3/23 17:23,Student,4,1,6.5
+50555,33,Female,Beijing,Bronze,8,302.55,Home Goods,2023/3/3 16:41,Student,26,0,6.5
+84439,47,Male,Shenzhen,Gold,3,330.65,Home Goods,2023/8/8 15:04,Student,5,0,6.5
+48704,24,Male,Hefei,Platinum,7,1909.58,Electronics,2023/7/12 23:22,Self-Employed,27,1,6.5
+76632,55,Female,Kunming,Platinum,5,3277.81,Electronics,2023/10/20 12:07,Student,1,0,20
+53228,45,Female,Guangzhou,Silver,4,75.43,Electronics,2023/7/26 2:14,Retired,16,1,20
+36950,48,Female,Tianjin,Bronze,7,30.18,Electronics,2023/11/21 1:27,Student,6,0,20
+65072,24,Male,Xi'an,Platinum,5,2574.23,Home Goods,2023/3/6 11:55,Unemployed,9,0,20
+59176,39,Male,Shenyang,Bronze,3,1643.89,Home Goods,2023/6/23 7:12,Self-Employed,26,0,6.5
+54880,56,Female,Taiyuan,Silver,7,136.8,Clothing,2023/1/19 15:00,Retired,16,0,6.5
+41246,45,Female,Nanchang,Platinum,7,942.43,Electronics,2023/5/14 14:55,Unemployed,25,1,6.5
+95382,28,Female,Wuxi,Silver,6,520.93,Clothing,2023/3/20 2:14,Professional,10,0,6.5
+71454,27,Female,Shenyang,Platinum,4,1475.7,Home Goods,2023/10/12 9:36,Retired,22,0,6.5
+16703,50,Male,Shenyang,Platinum,7,405.32,Home Goods,2023/9/28 8:11,Retired,23,0,6.5
+49115,68,Male,Beijing,Silver,7,1398.87,Home Goods,2023/10/27 19:32,Professional,12,0,6.5
+79971,41,Male,Kunming,Silver,2,1943.4,Clothing,2023/12/15 20:06,Retired,2,0,6.5
+26781,32,Male,Quanzhou,Platinum,6,3147.8,Clothing,2023/8/16 3:37,Retired,27,0,6.5
+38551,65,Female,Shanghai,Gold,7,1210.38,Electronics,2023/9/20 22:01,Professional,9,0,6.5
+75812,39,Male,Kunming,Gold,6,567.68,Home Goods,2023/2/10 19:57,Retired,14,1,6.5
+21234,56,Female,Shenzhen,Silver,2,1748.82,Home Goods,2023/6/19 17:03,Professional,18,1,6.5
+28774,28,Female,Qingdao,Silver,4,282.61,Clothing,2023/11/14 8:55,Professional,20,0,6.5
+73609,,Male,Shenzhen,Bronze,8,118.99,Home Goods,2023/10/28 4:31,Self-Employed,24,0,6.5
+26814,68,Female,Nanchang,Platinum,6,2053.08,Electronics,2023/2/16 16:59,Self-Employed,22,0,6.5
+91821,36,Male,Taiyuan,Platinum,6,1081.52,Home Goods,2023/9/3 18:28,Self-Employed,21,0,6.5
+82235,63,Male,Shijiazhuang,Bronze,8,3476.49,Clothing,2023/1/21 15:15,Student,21,0,6.5
+22708,49,Male,Chongqing,Gold,3,456.46,Electronics,2023/9/28 4:00,Unemployed,26,0,6.5
+56097,57,Male,Zhengzhou,Bronze,6,84.3,Clothing,2023/11/17 15:18,Self-Employed,27,0,6.5
+57057,65,Male,Nanchang,Platinum,4,1170.77,Electronics,2023/1/24 15:32,Unemployed,27,0,6.5
+80039,24,Female,Xi'an,Bronze,2,1254.45,Electronics,2023/10/1 21:21,Student,1,1,6.5
+29600,27,Female,Kunming,Silver,1,1121.88,Clothing,2023/4/30 12:38,Unemployed,2,0,6.5
+89518,27,Female,Quanzhou,Bronze,6,843.89,Clothing,2023/6/17 17:52,Professional,13,1,6.5
+98945,35,Male,Zhengzhou,Platinum,4,1138.14,Clothing,2023/2/15 7:41,Unemployed,17,0,6.5
+11933,35,Female,Changsha,Silver,4,70.16,Electronics,2023/11/20 2:42,Unemployed,27,1,6.5
+20561,21,Male,Xi'an,Gold,3,648.8,Home Goods,2023/1/4 22:53,Professional,8,0,6.5
+60910,58,Male,Chengdu,Platinum,6,2837.04,Home Goods,2023/12/31 8:44,Self-Employed,29,0,6.5
+41128,66,Female,Hangzhou,Bronze,3,637.07,Electronics,2023/7/10 19:17,Student,8,1,6.5
+81410,60,Female,Changsha,Silver,9,1833.94,Clothing,2023/11/6 0:36,Student,19,0,6.5
+40430,19,Male,Nanchang,Bronze,5,203.79,Home Goods,2023/8/19 9:25,Professional,17,0,6.5
+25894,24,Female,Fuzhou,Platinum,6,577.35,Electronics,2023/6/20 3:27,Student,11,0,6.5
+77590,21,Female,Jinan,Platinum,3,1989.37,Electronics,2023/8/21 18:41,Professional,13,1,6.5
+13609,26,Male,Changsha,Gold,3,1653.77,Electronics,2023/9/4 9:55,Professional,6,0,6.5
+98905,68,Female,Shijiazhuang,Silver,6,509.19,Clothing,2023/6/2 14:54,Retired,11,0,6.5
+25305,55,Female,Chengdu,Platinum,5,523.11,Clothing,2023/9/13 18:35,Retired,26,0,6.5
+23524,18,Female,Qingdao,Platinum,5,208.93,Home Goods,2023/7/18 12:33,Unemployed,5,0,6.5
+24554,52,Male,Xi'an,Bronze,3,961.82,Electronics,2023/2/18 1:19,Professional,14,1,6.5
+97047,38,Female,Hefei,Gold,10,658.4,Clothing,2023/1/8 8:16,Unemployed,6,1,6.5
+52033,64,Male,Harbin,Gold,6,134.98,Clothing,2023/2/26 8:59,Retired,17,0,6.5
+37256,68,Male,Quanzhou,Silver,7,420.48,Clothing,2023/11/8 23:08,Self-Employed,26,0,6.5
+20134,55,Female,Hangzhou,Silver,9,591.52,Clothing,2023/8/2 7:31,Student,19,1,6.5
+24257,20,Female,Quanzhou,Silver,4,329.42,Clothing,2023/10/11 5:02,Unemployed,19,0,6.5
+91838,31,Male,Shenzhen,Bronze,3,75.84,Clothing,2023/10/19 0:42,Professional,7,1,6.5
+24485,54,Female,Hefei,Bronze,7,111.41,Clothing,2023/11/13 13:49,Retired,22,0,6.5
+62772,24,Male,Hefei,Bronze,7,103.92,Home Goods,2023/5/17 7:11,Self-Employed,19,0,6.5
+97253,52,Male,Dalian,Bronze,6,1110.51,Home Goods,2023/11/27 17:28,Retired,14,0,6.5
+70291,50,Male,Quanzhou,Silver,1,1377.99,Home Goods,2023/7/30 3:45,Professional,21,0,6.5
+94434,61,Female,Hangzhou,Silver,10,773.52,Electronics,2023/1/17 11:35,Self-Employed,2,0,6.5
+98058,47,Female,Tianjin,Platinum,6,366.84,Home Goods,2023/8/23 22:19,Retired,5,0,6.5
+82971,65,Female,Dalian,Gold,3,641.01,Electronics,2023/1/17 19:30,Student,20,0,6.5
+86844,61,Female,Chengdu,Bronze,2,1115.5,Home Goods,2023/11/16 10:31,Student,2,0,6.5
+17911,26,Female,Shenyang,Bronze,8,1194.74,Home Goods,2023/4/11 13:27,Professional,19,0,6.5
+20624,57,Male,Xiamen,Silver,3,90.02,Home Goods,2023/6/9 13:16,Retired,4,1,6.5
+22981,32,Female,Taiyuan,Platinum,4,65.57,Clothing,2023/11/8 17:18,Professional,12,1,6.5
+19254,30,Female,Kunming,Silver,4,988.45,Clothing,2023/10/3 16:16,Retired,2,0,6.5
+43712,23,Female,Wuhan,Gold,3,358.69,Electronics,2023/10/6 22:56,Self-Employed,6,1,6.5
+62705,59,Female,Changsha,Bronze,5,399.25,Clothing,2023/12/9 17:47,Student,10,1,6.5
+98722,24,Female,Urumqi,Silver,6,364.29,Clothing,2023/2/2 10:55,Professional,6,0,6.5
+16866,51,Male,Hefei,Platinum,6,98.83,Home Goods,2023/11/25 1:47,Unemployed,11,0,6.5
+87838,41,Male,Dalian,Gold,7,504.73,Home Goods,2023/6/4 21:43,Unemployed,3,0,6.5
+28568,51,Male,Kunming,Platinum,6,22.77,Clothing,2023/2/10 6:31,Student,22,0,6.5
+89322,33,Male,Shenzhen,Platinum,6,326.93,Clothing,2023/1/7 12:23,Self-Employed,17,0,6.5
+97393,23,Female,Taiyuan,Bronze,5,1468.47,Clothing,2023/1/16 16:20,Unemployed,24,0,6.5
+22070,38,Male,Wuhan,Bronze,6,271.92,Electronics,2023/1/28 10:52,Unemployed,3,1,6.5
+89014,56,Female,Hangzhou,Silver,5,2141.93,Electronics,2023/8/20 19:10,Professional,15,0,6.5
+22511,19,Female,Changchun,Gold,10,801.38,Home Goods,2023/11/27 19:23,Student,29,0,17.96
+70438,63,Female,Dalian,Silver,7,1835.37,Clothing,2023/1/10 18:01,Unemployed,3,0,17.96
+67515,56,Male,Dalian,Silver,6,983.8,Clothing,2023/10/29 16:31,Student,18,0,17.96
+95825,36,Female,Tianjin,Platinum,3,3468.62,Clothing,2023/1/6 7:39,Self-Employed,22,0,17.96
+94558,59,Male,Shanghai,Gold,8,443.88,Clothing,2023/7/24 19:21,Professional,6,1,17.96
+80857,52,Female,Fuzhou,Gold,4,2349.51,Clothing,2023/3/12 16:37,Student,23,1,6.5
+56920,44,Male,Nanchang,Gold,5,680.76,Electronics,2023/3/15 19:13,Retired,19,0,6.5
+83646,27,Male,Changchun,Platinum,6,419.88,Home Goods,2023/8/11 21:07,Retired,3,0,6.5
+17048,52,Female,Wuhan,Bronze,6,354.32,Electronics,2023/3/24 22:22,Unemployed,9,0,6.5
+85703,60,Female,Hangzhou,Gold,7,205.94,Home Goods,2023/7/25 1:30,Self-Employed,13,1,6.5
+18994,29,Female,Shanghai,Platinum,7,99.48,Clothing,2023/1/6 8:53,Self-Employed,29,1,6.5
+57001,26,Male,Zhengzhou,Platinum,4,2783.96,Home Goods,2023/6/25 13:49,Professional,9,0,6.5
+43948,31,Female,Xi'an,Bronze,7,245.28,Home Goods,2023/9/14 9:57,Professional,23,0,6.5
+85812,45,Male,Nanchang,Platinum,4,335.46,Home Goods,2023/2/6 7:35,Unemployed,25,0,6.5
+95085,50,Female,Harbin,Silver,4,1095.14,Clothing,2023/9/18 4:03,Unemployed,28,1,6.5
+81139,,Male,Quanzhou,Gold,10,1830.96,Electronics,2023/6/30 4:43,Student,28,1,6.5
+23849,48,Female,Kunming,Gold,6,104.39,Electronics,2023/3/29 5:19,Self-Employed,17,1,6.5
+85794,18,Female,Wuhan,Silver,6,2386.01,Home Goods,2023/3/5 11:59,Self-Employed,25,1,6.5
+22139,57,Male,Hangzhou,Bronze,3,38.2,Clothing,2023/7/12 3:13,Unemployed,3,1,6.5
+68426,48,Female,Quanzhou,Platinum,8,450.81,Home Goods,2023/10/9 21:04,Self-Employed,12,0,6.5
+76986,37,Female,Xi'an,Platinum,3,525.08,Clothing,2023/1/12 5:19,Self-Employed,23,0,6.5
+78435,31,Female,Wuhan,Silver,7,233.21,Clothing,2023/4/1 4:04,Unemployed,10,1,6.5
+10954,26,Male,Nanchang,Bronze,7,155.21,Home Goods,2023/10/4 7:33,Retired,27,1,6.5
+22779,64,Female,Wuhan,Bronze,2,1884.32,Electronics,2023/4/29 16:24,Retired,21,0,6.5
+20272,27,Female,Jinan,Platinum,4,353.91,Electronics,2023/9/19 0:12,Student,5,0,6.5
+46452,21,Male,Kunming,Gold,10,607.81,Home Goods,2023/9/13 8:27,Professional,4,0,6.5
+44989,22,Male,Chongqing,Platinum,10,707.01,Clothing,2023/1/30 14:20,Retired,16,0,6.5
+73678,,Female,Changchun,Platinum,3,268.91,Clothing,2023/8/7 7:32,Self-Employed,4,0,6.5
+34431,44,Female,Xiamen,Platinum,5,1270.24,Home Goods,2023/9/1 5:07,Retired,4,0,6.5
+94140,62,Female,Nanchang,Gold,6,127.85,Home Goods,2023/12/23 7:55,Professional,3,0,6.5
+23592,53,Female,Wuhan,Bronze,7,1008.51,Clothing,2023/3/26 5:48,Student,18,0,6.5
+53458,53,Male,Kunming,Platinum,4,499.07,Electronics,2023/7/4 7:05,Unemployed,13,1,6.5
+71153,60,Male,Chengdu,Platinum,3,1130.82,Electronics,2023/6/8 16:49,Professional,9,0,6.5
+10374,31,Male,Wuxi,Platinum,4,298.28,Electronics,2023/7/1 5:22,Self-Employed,8,0,6.5
+31161,55,Male,Fuzhou,Bronze,6,459.38,Electronics,2023/6/29 9:55,Student,23,1,6.5
+75858,60,Male,Beijing,Silver,4,1199.13,Home Goods,2023/6/21 6:52,Unemployed,26,1,24.47
+63579,47,Male,Hangzhou,Bronze,3,384.78,Clothing,2023/8/3 5:42,Student,13,0,24.47
+49349,46,Male,Shenyang,Gold,7,1067.84,Home Goods,2023/11/17 11:46,Retired,5,0,24.47
+34115,36,Male,Changchun,Bronze,9,1141.99,Clothing,2023/10/7 7:43,Self-Employed,16,1,24.47
+86677,27,Male,Wuxi,Platinum,11,1444.09,Home Goods,2023/5/15 16:33,Student,14,0,6.5
+72073,30,Male,Changchun,Silver,5,880.8,Clothing,2023/7/7 13:30,Self-Employed,12,0,6.5
+83402,42,Male,Quanzhou,Silver,6,822.42,Home Goods,2023/2/28 21:52,Professional,11,0,6.5
+92100,60,Male,Beijing,Gold,2,886.79,Clothing,2023/11/29 14:09,Professional,1,0,6.5
+38919,41,Female,Wuxi,Gold,8,404.43,Clothing,2023/6/11 2:23,Student,7,0,6.5
+93895,37,Female,Harbin,Bronze,4,1377.78,Electronics,2023/3/27 16:08,Unemployed,6,0,6.5
+37499,37,Male,Beijing,Gold,3,1098.69,Clothing,2023/1/31 17:02,Professional,28,0,6.5
+34896,62,Female,Chongqing,Platinum,3,715,Electronics,2023/3/8 7:44,Self-Employed,8,1,6.5
+60296,26,nan,Dalian,Platinum,6,290.17,Electronics,2023/12/22 10:18,Self-Employed,4,0,6.5
+40400,66,Male,Fuzhou,Gold,7,1057.92,Clothing,2023/11/23 4:42,Student,1,1,6.5
+82504,24,Female,Beijing,Silver,6,1078.79,Home Goods,2023/3/20 3:02,Self-Employed,24,1,6.5
+44767,33,Female,Shenzhen,Platinum,6,34.35,Electronics,2023/9/30 0:04,Unemployed,10,0,6.5
+70218,43,Male,Quanzhou,Gold,3,2300.72,Home Goods,2023/9/13 7:35,Student,17,0,6.5
+68638,57,Female,Beijing,Gold,2,419.31,Home Goods,2023/5/28 13:46,Retired,12,1,6.5
+47609,31,Male,Nanjing,Platinum,8,106.05,Clothing,2023/1/28 21:24,Student,29,0,6.5
+22002,64,Male,Hefei,Gold,3,1480.67,Home Goods,2023/6/12 7:25,Student,20,1,6.5
+13763,23,Female,Xiamen,Gold,4,924.63,Clothing,2023/6/24 12:27,Retired,6,0,6.5
+10438,67,Female,Zhengzhou,Gold,4,338.05,Home Goods,2023/11/20 0:54,Student,5,0,6.5
+55366,44,Male,Taiyuan,Bronze,4,3810.35,Home Goods,2023/11/2 21:09,Student,9,0,6.5
+81298,32,Male,Beijing,Platinum,8,1551.78,Electronics,2023/7/23 1:46,Unemployed,19,0,6.5
+48402,37,Female,Jinan,Silver,7,626.22,Electronics,2023/3/6 11:47,Unemployed,25,0,6.5
+44348,21,Female,Changchun,Silver,6,2673.34,Home Goods,2023/5/23 2:45,Unemployed,22,1,6.5
+80618,52,Male,Nanchang,Gold,3,2285.88,Clothing,2023/9/23 13:49,Student,29,1,6.5
+62221,24,Male,Dalian,Platinum,5,500.02,Home Goods,2023/7/11 17:16,Student,3,0,6.5
+95042,,Female,Kunming,Gold,5,381.63,Home Goods,2023/10/23 14:06,Professional,1,0,6.5
+80250,40,Male,Wuhan,Gold,4,1485.51,Clothing,2023/1/17 0:46,Retired,25,0,8.7
+75785,59,Female,Shenzhen,Gold,7,661.54,Electronics,2023/3/3 17:53,Professional,1,1,6.5
+30380,51,Male,Kunming,Gold,7,2426.91,Home Goods,2023/5/17 15:39,Self-Employed,6,1,6.5
+28115,67,Female,Tianjin,Silver,5,1238.2,Home Goods,2023/6/9 17:43,Professional,1,0,35.96
+21408,28,Female,Shenzhen,Platinum,7,82.84,Clothing,2023/3/6 0:38,Unemployed,12,1,35.96
+41978,27,Female,Beijing,Gold,7,1023.8,Electronics,2023/8/27 3:45,Professional,3,0,35.96
+89852,57,Male,Taiyuan,Bronze,2,889.39,Electronics,2023/3/10 23:59,Professional,28,0,6.5
+57161,46,Female,Dalian,Silver,5,387.92,Clothing,2023/8/10 1:58,Student,18,0,18.47
+68206,39,Male,Kunming,Bronze,3,357.07,Home Goods,2023/6/18 1:58,Self-Employed,29,0,6.5
+81033,27,Male,Changchun,Silver,6,735.01,Electronics,2023/1/8 18:03,Unemployed,24,0,6.5
+26943,55,Female,Nanjing,Platinum,3,261.53,Clothing,2023/4/26 11:37,Professional,15,1,6.5
+46324,42,Male,Shenzhen,Silver,9,1996.53,Clothing,2023/3/6 3:22,Student,6,1,6.5
+21297,50,Male,Chongqing,Gold,8,1415.41,Clothing,2023/9/30 3:24,Retired,29,0,6.5
+59539,52,Female,Guangzhou,Gold,7,1349.19,Clothing,2023/1/6 5:08,Self-Employed,21,0,6.5
+90456,51,Female,Changsha,Bronze,4,144.36,Clothing,2023/5/6 2:48,Student,28,0,6.5
+54407,36,Male,Harbin,Silver,7,575.68,Clothing,2023/4/25 12:02,Unemployed,1,1,6.5
+23964,37,Female,Changchun,Gold,7,2271.8,Clothing,2023/8/8 17:24,Self-Employed,13,0,6.5
+20029,39,Male,Shenzhen,Bronze,7,208.75,Clothing,2023/4/2 8:31,Unemployed,13,1,6.5
+19299,23,Female,Shanghai,Platinum,6,254.26,Electronics,2023/4/18 10:15,Student,4,1,6.5
+95039,31,Male,Chengdu,Bronze,3,820.97,Clothing,2023/8/24 13:19,Unemployed,10,0,28.78
+55935,44,Male,Shanghai,Silver,6,523.27,Electronics,2023/10/13 13:24,Professional,16,0,28.78
+47588,32,Male,Changsha,Silver,7,525.88,Home Goods,2023/12/20 19:36,Student,13,0,28.78
+26002,61,Male,Changsha,Silver,7,5208.6,Home Goods,2023/8/30 14:05,Unemployed,27,0,28.78
+21440,58,Male,Nanjing,Platinum,4,1808.26,Clothing,2023/1/1 21:28,Retired,22,0,6.5
+60895,25,Male,Xi'an,Gold,4,430.37,Electronics,2023/7/23 6:23,Professional,3,0,6.5
+60823,58,Male,Chengdu,Silver,3,1987.01,Home Goods,2023/11/12 12:31,Self-Employed,14,0,6.5
+48547,36,Male,Hefei,Silver,8,1034.36,Clothing,2023/4/22 20:16,Retired,19,1,6.5
+21244,45,Male,Hefei,Gold,2,1171.36,Home Goods,2023/2/7 23:41,Retired,7,0,6.5
+81820,,Male,Shenzhen,Bronze,3,377.86,Home Goods,2023/9/23 18:57,Unemployed,13,0,74.74
+11984,69,Male,Chengdu,Silver,5,2573.44,Clothing,2023/4/1 6:09,Professional,23,0,74.74
+71437,64,Male,Guangzhou,Gold,7,552.72,Home Goods,2023/3/31 21:44,Retired,3,0,74.74
+57715,19,Female,Qingdao,Gold,6,997.56,Clothing,2023/3/16 9:06,Professional,28,1,74.74
+51274,46,Male,Tianjin,Platinum,3,1684.36,Clothing,2023/3/24 17:49,Self-Employed,7,0,74.74
+41607,57,nan,Guangzhou,Platinum,5,904.49,Clothing,2023/5/27 13:38,Retired,2,1,6.5
+82584,62,Female,Quanzhou,Silver,7,2103.7,Clothing,2023/7/10 21:00,Student,15,0,35.3
+19399,67,Female,Wuxi,Bronze,6,1906.93,Electronics,2023/5/7 16:57,Professional,28,1,35.3
+24596,38,Female,Hefei,Bronze,5,334.36,Home Goods,2023/8/21 14:00,Retired,23,0,35.3
+30461,42,Female,Guangzhou,Silver,4,4788.77,Home Goods,2023/3/7 20:45,Self-Employed,11,0,35.3
+62105,29,Male,Xiamen,Platinum,7,131.62,Home Goods,2023/7/28 15:15,Professional,15,1,35.3
+72345,39,Male,Taiyuan,Silver,6,1779.05,Electronics,2023/1/5 8:35,Retired,25,1,35.3
+44921,68,Female,Shenzhen,Gold,8,296.05,Home Goods,2023/9/30 23:42,Professional,16,0,35.3
+34980,23,Female,Shenyang,Gold,4,1128.45,Home Goods,2023/4/18 21:15,Unemployed,7,0,28.78
+86463,22,Male,Shanghai,Gold,7,561.37,Home Goods,2023/4/18 12:40,Retired,23,0,6.5
+92559,19,Female,Quanzhou,Silver,8,755.48,Home Goods,2023/10/11 21:20,Retired,24,0,6.5
+85686,60,Male,Jinan,Platinum,4,1145.5,Electronics,2023/7/1 12:43,Unemployed,16,0,6.5
+74911,64,Female,Harbin,Bronze,2,1364.09,Clothing,2023/9/27 21:34,Retired,1,0,6.5
+69081,31,Female,Fuzhou,Gold,8,2638.18,Clothing,2023/11/19 1:18,Retired,2,1,6.5
+70920,29,Female,Shenzhen,Platinum,6,2037.03,Electronics,2023/6/3 6:49,Student,12,0,6.5
+83463,50,Male,Qingdao,Bronze,7,752.81,Home Goods,2023/5/12 14:17,Professional,26,0,20.78
+17716,19,Female,Changsha,Bronze,6,3076.4,Clothing,2023/6/6 19:34,Student,14,1,20.78
+64097,38,Male,Beijing,Gold,5,586.91,Clothing,2023/4/19 7:19,Unemployed,21,0,18.47
+60098,43,Male,Shenzhen,Bronze,2,945.18,Clothing,2023/9/7 1:08,Professional,5,0,18.47
+23305,51,Female,Guangzhou,Gold,3,1307.4,Electronics,2023/8/31 8:53,Self-Employed,27,0,18.47
+10181,43,Female,Changsha,Silver,5,66.13,Home Goods,2023/11/22 3:32,Retired,17,0,6.5
+42477,33,Female,Shenzhen,Silver,8,1109.42,Clothing,2023/8/24 23:52,Self-Employed,23,1,6.5
+69526,65,Female,Xi'an,Gold,7,171.16,Clothing,2023/8/26 13:39,Student,18,1,13.78
+44521,67,Female,Qingdao,Platinum,4,1.54,Home Goods,2023/3/2 9:47,Professional,22,1,8.7
+89026,20,Male,Guangzhou,Bronze,3,316.08,Home Goods,2023/8/20 0:55,Unemployed,19,0,35.3
+61047,38,Male,Shenyang,Silver,9,2037.45,Home Goods,2023/7/6 20:41,Self-Employed,18,0,35.3
+68348,19,Female,Urumqi,Bronze,7,1373.14,Electronics,2023/3/25 1:19,Student,21,0,35.3
+56010,49,Male,Shijiazhuang,Gold,3,1694.66,Clothing,2023/11/17 4:51,Self-Employed,2,0,35.3
+64600,,Female,Nanjing,Gold,5,381.45,Clothing,2023/7/17 23:09,Professional,22,0,122.74
+60278,54,Female,Tianjin,Gold,4,41.24,Electronics,2023/1/4 20:26,Self-Employed,20,0,122.74
+21770,27,Male,Taiyuan,Bronze,8,5.82,Electronics,2023/11/3 4:04,Retired,14,0,12.76
+54432,65,Male,Guangzhou,Platinum,7,683.15,Electronics,2023/11/11 23:21,Professional,24,0,12.76
+22178,,Male,Nanjing,Bronze,5,615.15,Electronics,2023/12/6 20:21,Professional,27,1,12.76
+94580,49,Female,Shenzhen,Gold,3,195.7,Home Goods,2023/11/22 18:42,Unemployed,24,1,6.5
+59800,38,Male,Taiyuan,Bronze,1,1248.64,Clothing,2023/6/1 18:40,Retired,6,1,8.7
+13237,25,Male,Shenyang,Platinum,5,20.4,Clothing,2023/12/24 5:56,Self-Employed,20,0,210.44
+22295,51,Female,Guangzhou,Gold,5,1088.4,Clothing,2023/2/27 7:21,Professional,3,0,210.44
+98418,45,Female,Kunming,Bronze,3,4149.48,Home Goods,2023/1/30 19:10,Student,12,0,210.44
+40066,34,Male,Changsha,Bronze,4,451.16,Electronics,2023/3/10 22:10,Retired,18,0,210.44
+31950,49,Male,Quanzhou,Silver,9,681.3,Home Goods,2023/9/10 0:45,Professional,23,1,210.44
+22477,67,Female,Shenzhen,Gold,8,44.92,Clothing,2023/12/30 9:09,Self-Employed,19,0,6.5
+72722,40,Male,Chengdu,Bronze,2,962.76,Electronics,2023/4/4 1:23,Self-Employed,6,0,16.65
+96033,65,Female,Guangzhou,Silver,2,616.36,Home Goods,2023/10/1 9:36,Unemployed,10,0,16.65
+73084,,Female,Shenyang,Silver,6,1728.43,Home Goods,2023/2/28 7:00,Retired,23,0,6.5
+65003,34,Male,Urumqi,Platinum,6,1881.29,Home Goods,2023/5/22 17:08,Professional,11,0,6.5
+65784,57,Male,Wuxi,Platinum,2,179.08,Electronics,2023/2/16 20:14,Student,17,0,6.5
+18818,64,Male,Harbin,Bronze,6,571.06,Home Goods,2023/11/15 6:11,Student,7,0,6.5
+53589,38,Male,Xiamen,Bronze,8,135.8,Clothing,2023/10/19 4:39,Retired,8,0,6.5
+97020,61,Female,Nanjing,Platinum,6,3077.87,Home Goods,2023/9/25 19:48,Retired,16,0,6.5
+86292,47,Female,Shanghai,Platinum,8,29.51,Home Goods,2023/6/20 20:10,Retired,14,0,6.5
+43241,32,Female,Shanghai,Bronze,3,1114.86,Home Goods,2023/9/13 15:59,Retired,26,0,6.5
+94174,51,Female,Xi'an,Platinum,4,716.03,Clothing,2023/8/21 22:21,Unemployed,27,0,6.5
+92495,58,Female,Shenyang,Silver,2,724.63,Home Goods,2023/7/27 14:17,Self-Employed,1,1,6.5
+29733,51,Male,Xi'an,Silver,9,386.06,Home Goods,2023/3/5 6:22,Retired,1,1,6.5
+75503,28,Male,Jinan,Platinum,6,1354.13,Electronics,2023/6/4 0:40,Unemployed,12,1,6.5
+19613,35,Female,Shijiazhuang,Gold,6,1910.09,Clothing,2023/9/18 22:12,Self-Employed,3,0,6.5
+14951,45,Female,Shanghai,Silver,9,382.29,Electronics,2023/2/24 8:05,Self-Employed,9,1,6.5
+58652,56,Male,Wuhan,Silver,4,69.33,Home Goods,2023/9/23 9:34,Unemployed,15,0,6.5
+67427,49,Male,Guangzhou,Silver,10,1412.15,Clothing,2023/5/19 17:39,Professional,14,0,6.5
+97509,40,Female,Fuzhou,Platinum,1,143.91,Electronics,2023/10/1 8:04,Student,29,1,6.5
+55082,45,Male,Fuzhou,Gold,5,79.07,Clothing,2023/7/15 10:30,Student,18,0,6.5
+11646,26,nan,Beijing,Silver,6,469.39,Electronics,2023/1/17 21:14,Self-Employed,29,1,6.5
+44271,58,Male,Hefei,Bronze,4,638.69,Clothing,2023/1/29 5:28,Unemployed,10,0,6.5
+46280,52,Female,Jinan,Silver,8,1357.57,Electronics,2023/1/25 9:46,Retired,26,0,6.5
+33822,52,Male,Shanghai,Platinum,5,2275.42,Clothing,2023/4/12 6:00,Self-Employed,21,1,6.5
+74578,31,Male,Tianjin,Bronze,9,1503.52,Electronics,2023/11/25 22:03,Professional,27,1,6.5
+96313,39,Male,Qingdao,Silver,5,379.74,Electronics,2023/6/27 21:56,Student,25,0,6.5
+52352,38,Female,Taiyuan,Platinum,6,79.43,Clothing,2023/11/2 5:05,Retired,29,1,6.5
+39957,38,Male,Hefei,Platinum,7,191.35,Home Goods,2023/8/29 21:46,Retired,16,0,6.5
+48146,57,Female,Nanjing,Gold,3,120.91,Electronics,2023/6/1 22:35,Retired,5,0,6.5
+30243,61,Female,Chengdu,Silver,5,320.08,Electronics,2023/10/8 1:09,Professional,11,0,6.5
+76901,69,Male,Qingdao,Platinum,3,18.46,Clothing,2023/12/18 3:54,Self-Employed,1,1,6.5
+27034,26,Male,Guangzhou,Platinum,3,235.73,Electronics,2023/4/22 23:53,Retired,27,0,6.5
+99147,29,nan,Shenyang,Silver,1,59.9,Home Goods,2023/7/19 12:48,Self-Employed,12,0,6.5
+36738,20,Female,Shijiazhuang,Bronze,7,279.77,Home Goods,2023/8/6 15:14,Professional,5,0,6.5
+34284,38,Female,Chengdu,Bronze,9,203.49,Clothing,2023/12/13 11:48,Retired,13,0,6.5
+72949,26,Male,Xiamen,Gold,2,1743.47,Clothing,2023/6/24 19:33,Unemployed,25,1,6.5
+78768,24,Female,Shenyang,Gold,2,103.33,Clothing,2023/11/16 22:11,Unemployed,3,0,6.5
+69535,61,Female,Wuhan,Gold,6,126.99,Clothing,2023/12/6 19:10,Retired,24,1,6.5
+67467,60,Female,Xi'an,Platinum,3,2711.59,Home Goods,2023/4/8 8:01,Student,14,0,6.5
+73538,26,Female,Beijing,Bronze,6,1783.26,Electronics,2023/10/12 17:48,Retired,18,0,6.5
+75200,23,Female,Guangzhou,Bronze,2,638.04,Electronics,2023/12/22 11:46,Professional,4,0,6.5
+74286,51,Male,Fuzhou,Silver,2,854.43,Electronics,2023/1/23 4:27,Retired,3,1,6.5
+25081,31,Female,Taiyuan,Platinum,5,34.12,Home Goods,2023/4/27 10:50,Student,5,1,6.5
+76904,34,Male,Wuhan,Platinum,4,69.25,Clothing,2023/10/1 18:39,Student,2,1,6.5
+29017,41,Male,Hangzhou,Platinum,7,730.79,Electronics,2023/7/4 6:49,Professional,19,0,6.5
+80485,62,Male,Wuhan,Bronze,8,82.07,Home Goods,2023/2/23 21:31,Self-Employed,28,0,6.5
+85048,59,Female,Hangzhou,Gold,4,214.64,Electronics,2023/8/18 2:52,Professional,20,0,6.5
+81269,64,Male,Tianjin,Silver,7,4801.56,Home Goods,2023/9/20 20:14,Professional,26,0,6.5
+13449,20,Male,Qingdao,Bronze,7,4329.33,Clothing,2023/12/19 20:36,Professional,10,0,6.5
+13773,64,Female,Nanjing,Platinum,6,1459.64,Electronics,2023/3/7 17:00,Unemployed,14,0,6.5
+73162,23,Male,Jinan,Gold,6,2011.32,Clothing,2023/2/27 22:33,Professional,10,1,6.5
+65241,45,Male,Nanjing,Platinum,7,4950.93,Electronics,2023/4/10 9:05,Unemployed,15,0,6.5
+25861,68,Female,Harbin,Silver,4,276.68,Electronics,2023/8/21 10:57,Self-Employed,8,0,6.5
+18609,29,Male,Xiamen,Bronze,2,1499.89,Home Goods,2023/12/23 12:38,Professional,21,1,6.5
+77220,52,Male,Dalian,Bronze,4,1136.29,Clothing,2023/4/29 3:05,Retired,14,0,6.5
+82704,19,Female,Changchun,Bronze,8,4453.94,Home Goods,2023/11/17 12:27,Self-Employed,2,0,6.5
+13694,25,Female,Guangzhou,Platinum,6,160.2,Clothing,2023/1/30 16:08,Student,25,0,6.5
+97141,62,Male,Shanghai,Bronze,2,432.84,Clothing,2023/7/15 12:25,Unemployed,10,1,6.5
+32832,22,Male,Chongqing,Bronze,8,690.85,Electronics,2023/7/30 13:07,Professional,1,0,6.5
+28413,53,Male,Quanzhou,Silver,10,1085.09,Clothing,2023/7/14 9:11,Self-Employed,8,0,6.5
+26014,33,Male,Jinan,Platinum,9,2507.84,Clothing,2023/9/29 11:30,Unemployed,12,1,6.5
+16190,30,Female,Quanzhou,Gold,2,262.87,Electronics,2023/9/12 1:45,Unemployed,6,0,6.5
+12655,35,Male,Guangzhou,Gold,9,577.54,Electronics,2023/12/18 3:40,Retired,1,1,6.5
+74905,59,Male,Chengdu,Silver,4,738.8,Home Goods,2023/1/14 5:45,Unemployed,9,0,6.5
+30683,36,Male,Beijing,Gold,2,1886.32,Electronics,2023/10/15 5:47,Retired,1,1,6.5
+95893,21,Female,Shanghai,Platinum,5,1046.32,Home Goods,2023/4/9 4:52,Professional,11,1,6.5
+96626,62,Female,Qingdao,Bronze,5,647.16,Electronics,2023/2/13 15:17,Self-Employed,22,0,6.5
+68838,19,Male,Kunming,Gold,5,2400.42,Home Goods,2023/3/1 5:19,Unemployed,5,0,6.5
+60900,49,Male,Beijing,Gold,2,785.39,Clothing,2023/1/25 21:46,Student,3,0,6.5
+79123,57,Female,Hangzhou,Silver,4,626.47,Home Goods,2023/2/9 10:22,Professional,27,0,0
+68572,23,Female,Chengdu,Gold,4,110.84,Home Goods,2023/9/30 10:15,Student,10,0,6.5
+24297,59,Female,Shanghai,Gold,4,55.14,Home Goods,2023/5/19 8:27,Self-Employed,9,0,6.5
+59181,33,Female,Kunming,Platinum,7,368.1,Clothing,2023/1/30 7:57,Student,18,1,6.5
+53507,43,Male,Fuzhou,Silver,4,1147.19,Home Goods,2023/3/1 7:31,Student,6,1,6.5
+56416,65,Female,Shenzhen,Platinum,2,1069.22,Home Goods,2023/12/3 1:42,Professional,21,1,6.5
+53638,68,Male,Urumqi,Platinum,5,1869.21,Clothing,2023/5/23 7:16,Self-Employed,8,0,6.5
+70454,53,Male,Jinan,Bronze,6,77.21,Electronics,2023/2/20 2:31,Professional,2,0,6.5
+46033,52,Male,Changchun,Bronze,8,52.61,Home Goods,2023/6/23 23:37,Professional,17,1,6.5
+76542,64,Female,Wuhan,Bronze,9,184.21,Clothing,2023/10/6 5:49,Unemployed,8,1,6.5
+82806,45,Female,Harbin,Gold,3,770.94,Electronics,2023/11/11 0:34,Retired,24,1,6.5
+18497,65,Male,Dalian,Gold,3,1066.65,Electronics,2023/9/2 23:25,Retired,3,0,6.5
+71044,38,nan,Dalian,Gold,11,691.9,Home Goods,2023/2/22 6:47,Student,10,0,6.5
+84584,20,Male,Shijiazhuang,Platinum,4,246.09,Clothing,2023/12/17 4:30,Retired,13,1,6.5
+16960,47,Female,Shanghai,Silver,5,402.92,Clothing,2023/7/24 10:53,Professional,12,1,6.5
+65108,30,Female,Changsha,Bronze,3,2329.57,Electronics,2023/7/4 9:41,Student,14,0,6.5
+10133,43,Male,Harbin,Gold,5,4030.36,Clothing,2023/9/22 8:24,Retired,7,1,6.5
+30701,62,Male,Harbin,Gold,6,2658.67,Electronics,2023/11/24 20:36,Professional,21,0,6.5
+56496,63,Female,Xi'an,Platinum,7,1672.65,Clothing,2023/3/6 16:34,Professional,20,0,6.5
+51188,52,Female,Taiyuan,Gold,6,1374.29,Clothing,2023/12/22 8:27,Student,5,1,6.5
+82706,33,Female,Changsha,Gold,2,4.63,Electronics,2023/11/1 6:10,Unemployed,11,0,13.78
+37543,23,Female,Zhengzhou,Bronze,6,821.22,Home Goods,2023/7/8 11:45,Professional,18,0,13.78
+23130,57,Female,Harbin,Bronze,7,241.43,Electronics,2023/12/16 0:25,Professional,25,1,13.78
+71950,32,Female,Chongqing,Platinum,5,25.49,Clothing,2023/5/21 5:48,Professional,8,0,6.5
+51952,18,Male,Changsha,Silver,6,1080.79,Clothing,2023/5/7 16:40,Self-Employed,21,0,6.5
+28588,47,Male,Xi'an,Platinum,7,1741.95,Clothing,2023/8/17 8:26,Unemployed,4,0,6.5
+65743,60,Male,Taiyuan,Gold,11,861.44,Electronics,2023/6/24 18:49,Retired,12,1,6.5
+47047,31,Male,Dalian,Platinum,10,5544.23,Clothing,2023/11/29 3:29,Self-Employed,14,0,6.5
+24227,46,Female,Changsha,Gold,5,84.21,Electronics,2023/10/22 15:28,Self-Employed,20,1,6.5
+31532,34,Male,Kunming,Gold,5,354.22,Electronics,2023/5/20 9:07,Retired,21,0,6.5
+13322,41,Female,Jinan,Platinum,6,1733.16,Clothing,2023/6/12 3:06,Professional,9,0,6.5
+82190,67,Female,Jinan,Silver,5,1730.23,Home Goods,2023/2/27 11:09,Professional,27,0,6.5
+21163,44,Female,Shenzhen,Gold,3,2081.57,Home Goods,2023/6/23 21:33,Professional,2,0,6.5
+60753,41,Female,Taiyuan,Silver,5,1497,Clothing,2023/5/25 9:14,Retired,23,1,6.5
+87917,31,Female,Xi'an,Platinum,2,901.57,Home Goods,2023/1/6 3:25,Self-Employed,20,0,6.5
+49833,49,Female,Changsha,Silver,9,859.96,Clothing,2023/10/22 5:21,Self-Employed,23,1,6.5
+62402,21,Male,Tianjin,Gold,4,325.43,Electronics,2023/5/27 22:13,Self-Employed,22,0,6.5
+37877,37,Male,Dalian,Platinum,5,288.56,Home Goods,2023/1/9 21:02,Self-Employed,27,0,6.5
+87692,69,Female,Changsha,Bronze,3,787.05,Clothing,2023/4/20 19:06,Student,4,1,6.5
+52913,69,Male,Tianjin,Bronze,5,2470.87,Clothing,2023/12/2 12:44,Self-Employed,29,0,6.5
+86935,41,Male,Zhengzhou,Silver,9,1395.76,Home Goods,2023/11/3 2:09,Retired,18,1,6.5
+73642,42,Female,Shenzhen,Bronze,5,1350.95,Electronics,2023/9/10 18:51,Professional,16,0,6.5
+93806,59,Female,Fuzhou,Platinum,7,1489.74,Electronics,2023/5/16 15:13,Retired,25,1,6.5
+78477,60,Female,Taiyuan,Silver,4,411.19,Electronics,2023/2/15 15:31,Unemployed,7,1,6.5
+32884,49,Female,Xi'an,Gold,4,451.86,Electronics,2023/1/4 13:26,Unemployed,10,1,6.5
+13057,23,Female,Urumqi,Platinum,2,213.79,Clothing,2023/4/6 1:05,Student,10,1,6.5
+44234,63,Female,Shijiazhuang,Silver,8,839.68,Home Goods,2023/6/25 14:15,Student,20,0,6.5
+90979,69,Male,Qingdao,Gold,3,1009.03,Clothing,2023/3/30 17:02,Retired,7,0,6.5
+98588,39,Female,Xiamen,Silver,6,931.77,Electronics,2023/5/24 22:09,Self-Employed,18,0,6.5
+31428,45,Female,Hangzhou,Gold,3,8.14,Home Goods,2023/4/10 0:07,Self-Employed,21,0,6.5
+36330,39,Female,Shenyang,Platinum,5,305.99,Electronics,2023/5/24 23:39,Professional,5,1,6.5
+43157,22,Female,Beijing,Silver,5,91.63,Clothing,2023/11/9 7:20,Professional,12,0,6.5
+87465,33,Female,Changchun,Platinum,5,27.85,Electronics,2023/4/8 22:59,Unemployed,10,1,6.5
+39766,49,Female,Changchun,Platinum,6,1078.45,Home Goods,2023/6/19 6:15,Student,29,0,6.5
+71056,37,Male,Wuhan,Silver,2,38.18,Clothing,2023/12/2 3:37,Retired,15,1,11.1
+16092,45,Female,Xi'an,Platinum,6,1576.01,Home Goods,2023/5/24 8:21,Self-Employed,26,0,11.1
+53301,32,Female,Xi'an,Silver,3,95.23,Clothing,2023/2/12 4:10,Unemployed,28,0,6.5
+29923,30,Female,Qingdao,Gold,5,263.04,Clothing,2023/2/22 11:38,Retired,2,0,8.7
+14686,65,Female,Urumqi,Silver,4,544.75,Electronics,2023/9/28 3:52,Unemployed,17,0,8.7
+17194,60,Female,Nanjing,Gold,4,95.24,Electronics,2023/11/23 12:27,Self-Employed,2,0,8.7
+64503,45,Male,Wuxi,Gold,3,341.97,Home Goods,2023/6/6 6:33,Professional,15,0,6.5
+26017,57,Female,Urumqi,Platinum,6,564.74,Electronics,2023/6/29 23:54,Unemployed,23,0,6.5
+61918,29,Male,Urumqi,Silver,10,589.07,Clothing,2023/3/15 12:30,Self-Employed,3,0,6.5
+76379,48,Male,Xi'an,Gold,3,284.89,Home Goods,2023/12/21 5:35,Student,21,0,6.5
+74134,58,Male,Shenzhen,Bronze,8,1092.85,Clothing,2023/1/2 20:33,Self-Employed,12,1,6.5
+19565,60,Female,Nanjing,Gold,7,687.44,Electronics,2023/2/11 6:57,Professional,18,0,6.5
+51718,32,Male,Chongqing,Bronze,5,204.89,Electronics,2023/12/5 3:07,Unemployed,13,0,6.5
+93557,35,Female,Xi'an,Gold,6,351.95,Clothing,2023/5/7 0:02,Unemployed,28,0,6.5
+42082,67,Male,Jinan,Platinum,3,574.89,Clothing,2023/4/1 8:35,Unemployed,19,0,11.1
+97062,,Female,Tianjin,Gold,4,1180.52,Clothing,2023/9/29 12:35,Student,15,0,6.5
+71825,52,Female,Beijing,Gold,4,1095.5,Clothing,2023/2/7 6:07,Unemployed,25,0,6.5
+78360,42,Female,Guangzhou,Gold,6,3005.78,Clothing,2023/6/5 2:41,Professional,2,0,6.5
+13081,59,Male,Hangzhou,Bronze,10,1876.47,Electronics,2023/6/22 7:34,Professional,12,0,6.5
+72911,37,Female,Xiamen,Gold,8,686.92,Electronics,2023/5/22 4:50,Student,27,0,50.74
+15159,62,Female,Changchun,Gold,7,1818.76,Home Goods,2023/9/24 22:04,Retired,16,1,50.74
+80648,54,Male,Jinan,Platinum,5,1597.08,Home Goods,2023/7/5 13:55,Professional,12,0,6.5
+97476,40,Female,Changchun,Silver,3,1451.07,Home Goods,2023/5/13 14:10,Unemployed,15,0,6.5
+35697,59,Male,Tianjin,Silver,13,77,Home Goods,2023/11/9 13:53,Retired,27,0,6.5
+54816,19,Male,Hefei,Silver,4,1267.99,Clothing,2023/12/11 12:22,Unemployed,28,0,6.5
+50093,63,Male,Shenzhen,Bronze,5,177.74,Electronics,2023/12/15 17:07,Professional,21,0,6.5
+19885,65,Female,Tianjin,Gold,2,3435.04,Electronics,2023/12/14 22:59,Retired,6,0,6.5
+41718,63,Male,Chengdu,Silver,4,823.78,Electronics,2023/9/16 14:08,Student,9,0,6.5
+52554,63,Female,Beijing,Platinum,5,256.1,Clothing,2023/9/15 12:31,Professional,9,1,6.5
+39379,30,Female,Shijiazhuang,Bronze,8,593.7,Clothing,2023/10/23 3:21,Unemployed,4,0,6.5
+73141,68,Male,Beijing,Silver,5,587.28,Clothing,2023/7/21 23:01,Self-Employed,2,1,6.5
+12755,62,Male,Chongqing,Silver,6,3676.32,Electronics,2023/9/28 15:25,Retired,21,0,6.5
+63540,26,Female,Dalian,Platinum,7,1073.74,Home Goods,2023/12/6 18:38,Professional,21,1,6.5
+86362,54,Female,Jinan,Gold,2,1795.44,Clothing,2023/1/21 11:34,Self-Employed,13,1,6.5
+13084,37,Female,Changchun,Platinum,3,1224.33,Clothing,2023/3/7 16:23,Retired,8,0,6.5
+10953,59,Female,Shenzhen,Bronze,3,2404.78,Electronics,2023/3/26 4:36,Self-Employed,6,1,6.5
+29846,40,Female,Qingdao,Gold,5,291.46,Clothing,2023/2/2 2:33,Retired,9,1,6.5
+51964,53,Male,Fuzhou,Bronze,5,426.35,Clothing,2023/12/11 21:36,Retired,12,0,6.5
+10693,60,Male,Shanghai,Bronze,2,1004.93,Home Goods,2023/2/28 4:29,Retired,24,1,13.78
+30815,49,Male,Changchun,Bronze,3,119.43,Clothing,2023/4/30 10:11,Self-Employed,27,1,13.78
+46198,61,Male,Nanjing,Bronze,7,96.89,Home Goods,2023/3/13 21:51,Professional,16,0,13.78
+33301,20,Female,Nanjing,Silver,6,294.62,Home Goods,2023/6/6 21:14,Self-Employed,26,0,13.78
+46313,46,Male,Shenzhen,Platinum,6,1555.71,Home Goods,2023/6/8 1:52,Student,24,0,6.5
+66727,44,nan,Harbin,Silver,5,248.72,Home Goods,2023/11/19 20:20,Student,9,0,6.5
+51570,49,Male,Hangzhou,Platinum,1,614.41,Electronics,2023/4/25 1:11,Professional,10,0,6.5
+87879,44,Female,Zhengzhou,Silver,2,495.56,Electronics,2023/2/22 8:00,Unemployed,19,0,6.5
+95544,54,Male,Xi'an,Gold,5,3834.27,Electronics,2023/1/15 13:59,Student,19,0,6.5
+83501,32,Male,Changsha,Platinum,4,334.54,Electronics,2023/12/28 4:49,Retired,17,0,6.5
+20544,24,Female,Xi'an,Gold,4,1481.91,Clothing,2023/11/17 20:14,Professional,16,0,6.5
+50606,61,Female,Chengdu,Silver,7,489.75,Home Goods,2023/3/4 8:27,Unemployed,4,0,6.5
+32228,52,Female,Dalian,Silver,0,831.94,Home Goods,2023/3/9 14:02,Professional,13,0,6.5
+46426,68,Male,Shenyang,Silver,6,1296.73,Home Goods,2023/1/24 18:43,Professional,21,0,6.5
+35476,56,Male,Nanchang,Bronze,4,1345.64,Electronics,2023/10/6 14:36,Student,13,1,6.5
+33994,23,Male,Fuzhou,Platinum,8,2108.63,Clothing,2023/7/5 14:29,Self-Employed,21,0,6.5
+86808,47,Male,Guangzhou,Silver,5,715.23,Electronics,2023/6/3 10:15,Retired,16,0,6.5
+47046,28,Female,Beijing,Platinum,5,363.35,Electronics,2023/11/1 16:01,Unemployed,9,1,6.5
+97592,51,Female,Changchun,Silver,3,1254.54,Home Goods,2023/6/27 17:32,Retired,19,0,6.5
+77084,36,Female,Tianjin,Bronze,0,2388.64,Electronics,2023/12/15 4:42,Professional,26,1,6.5
+51798,51,Female,Shenzhen,Platinum,6,350.25,Home Goods,2023/8/31 7:36,Retired,28,1,6.5
+20925,31,Female,Urumqi,Silver,2,715.21,Clothing,2023/12/23 3:31,Professional,21,1,6.5
+41094,,Male,Beijing,Silver,6,2561.13,Clothing,2023/10/11 18:07,Self-Employed,15,0,6.5
+78308,42,Male,Shenzhen,Silver,5,838.08,Clothing,2023/11/12 4:01,Student,4,0,6.5
+11914,28,Male,Guangzhou,Gold,5,4422.89,Clothing,2023/11/25 9:25,Self-Employed,24,1,6.5
+89710,48,Female,Chengdu,Silver,2,500.71,Electronics,2023/2/1 22:46,Professional,23,0,6.5
+20461,32,Female,Dalian,Silver,3,227.76,Electronics,2023/1/16 9:07,Retired,26,1,6.5
+58725,68,Male,Shanghai,Gold,10,2266.14,Electronics,2023/1/31 9:23,Student,1,0,6.5
+24433,31,Female,Nanjing,Platinum,4,793.17,Clothing,2023/8/19 21:30,Self-Employed,12,0,6.5
+36925,25,Male,Qingdao,Gold,8,741.49,Clothing,2023/7/8 18:56,Professional,4,0,6.5
+51788,49,Female,Shenzhen,Platinum,2,2126.76,Home Goods,2023/8/6 12:20,Unemployed,9,0,6.5
+35833,41,Male,Changsha,Gold,5,2.92,Home Goods,2023/1/14 20:59,Retired,3,0,6.5
+98200,66,Male,Qingdao,Bronze,5,152.44,Home Goods,2023/11/13 18:59,Self-Employed,3,0,41.3
+76296,29,Male,Hangzhou,Bronze,5,2994.69,Clothing,2023/12/24 6:35,Unemployed,1,0,41.3
+51992,51,Female,Shenyang,Silver,3,1897.86,Clothing,2023/6/28 8:17,Unemployed,12,0,41.3
+59195,20,Male,Beijing,Gold,3,246.01,Electronics,2023/6/12 3:36,Student,2,0,41.3
+12319,65,Female,Fuzhou,Gold,7,395.71,Electronics,2023/10/19 8:57,Professional,29,0,41.3
+15898,46,Female,Changsha,Bronze,8,804.59,Home Goods,2023/7/24 18:59,Professional,15,0,41.3
+73192,37,Female,Chengdu,Platinum,9,144.42,Clothing,2023/7/30 13:45,Retired,18,0,41.3
+88514,49,Male,Tianjin,Gold,5,1355.15,Electronics,2023/4/22 12:42,Retired,1,0,6.5
+31786,34,Male,Shijiazhuang,Platinum,7,1813.03,Home Goods,2023/5/28 17:37,Unemployed,12,1,6.5
+20858,46,Male,Tianjin,Bronze,1,1278.03,Electronics,2023/10/16 10:44,Self-Employed,29,1,6.5
+50387,51,Female,Taiyuan,Silver,11,194.35,Home Goods,2023/7/11 5:55,Professional,4,0,6.5
+96742,39,Male,Guangzhou,Platinum,7,180.09,Clothing,2023/11/26 10:16,Unemployed,5,1,6.5
+64336,64,Female,Zhengzhou,Gold,5,1033.06,Electronics,2023/8/11 7:36,Self-Employed,10,0,6.5
+50152,38,Male,Xi'an,Platinum,4,139.92,Electronics,2023/7/5 18:41,Retired,16,1,6.5
+63704,29,Male,Shenyang,Gold,4,1693.69,Electronics,2023/9/26 13:11,Professional,29,1,6.5
+97859,37,Female,Quanzhou,Gold,4,1018.04,Clothing,2023/9/14 1:07,Professional,9,0,6.5
+60781,52,Male,Wuxi,Platinum,6,115.59,Clothing,2023/8/3 0:58,Self-Employed,13,0,6.5
+18660,59,Male,Shenyang,Platinum,8,108.01,Clothing,2023/1/28 14:11,Unemployed,27,1,6.5
+76656,54,Male,Nanchang,Platinum,4,178.83,Electronics,2023/7/9 14:28,Self-Employed,25,0,6.5
+81149,66,Male,Shenzhen,Silver,7,1022.52,Clothing,2023/12/26 2:11,Unemployed,17,0,6.5
+92265,47,Male,Shijiazhuang,Gold,8,1389.11,Electronics,2023/8/4 19:36,Unemployed,7,0,6.5
+81478,68,Male,Chengdu,Platinum,2,143.43,Electronics,2023/5/10 3:59,Retired,25,1,6.5
+17243,56,Female,Fuzhou,Platinum,1,2687.45,Electronics,2023/10/22 19:40,Student,29,0,6.5
+37711,59,Male,Harbin,Bronze,6,3655.61,Clothing,2023/8/15 5:36,Student,16,1,6.5
+60316,28,Female,Quanzhou,Platinum,6,3315.82,Electronics,2023/5/24 13:04,Professional,23,0,6.5
+62920,41,Female,Quanzhou,Silver,2,2314.2,Home Goods,2023/10/18 1:57,Professional,26,0,6.5
+35911,38,Male,Dalian,Gold,8,29.42,Electronics,2023/4/2 4:02,Unemployed,15,1,6.5
+96547,32,Female,Quanzhou,Gold,5,1876.67,Electronics,2023/8/21 14:08,Professional,18,0,6.5
+73121,65,Female,Hefei,Gold,8,1695.93,Electronics,2023/8/24 21:33,Student,9,0,6.5
+92541,56,Male,Fuzhou,Gold,8,2210.71,Electronics,2023/12/27 12:06,Professional,22,1,6.5
+87896,39,Male,Nanchang,Silver,7,337.69,Home Goods,2023/10/28 11:24,Student,6,0,6.5
+83039,43,Female,Taiyuan,Bronze,10,243.79,Electronics,2023/10/13 20:59,Retired,14,0,6.5
+58520,56,Female,Shijiazhuang,Silver,2,2735.86,Clothing,2023/1/8 10:35,Retired,15,0,6.5
+81476,18,Female,Changchun,Bronze,4,1920.2,Electronics,2023/6/3 21:19,Retired,21,1,6.5
+49743,24,Female,Harbin,Silver,9,2142.21,Home Goods,2023/8/6 6:46,Retired,9,0,6.5
+98766,36,Male,Fuzhou,Gold,2,2690.48,Clothing,2023/11/1 11:34,Unemployed,29,0,6.5
+52421,48,Male,Fuzhou,Gold,4,968.52,Home Goods,2023/8/30 19:12,Unemployed,27,0,6.5
+18346,23,Male,Harbin,Silver,9,666.33,Clothing,2023/9/22 6:20,Self-Employed,3,0,6.5
+96007,21,Male,Jinan,Platinum,3,240.07,Clothing,2023/3/30 3:01,Self-Employed,20,0,6.5
+91753,30,Male,Taiyuan,Bronze,4,186.89,Home Goods,2023/3/13 2:17,Retired,11,0,6.5
+37126,44,Male,Kunming,Platinum,3,979.69,Electronics,2023/5/28 9:52,Unemployed,19,1,6.5
+98501,51,Male,Hangzhou,Platinum,5,1267.92,Electronics,2023/2/1 14:49,Retired,3,1,6.5
+73869,65,Male,Qingdao,Silver,4,42.79,Electronics,2023/3/19 2:42,Unemployed,18,0,6.5
+92088,31,Male,Kunming,Platinum,4,713.95,Clothing,2023/8/2 20:27,Unemployed,26,0,6.5
+39752,46,Female,Wuxi,Silver,8,234.75,Electronics,2023/3/4 2:31,Self-Employed,8,0,6.5
+94411,30,Male,Chongqing,Silver,3,477.6,Home Goods,2023/10/19 21:56,Retired,12,0,6.5
+67090,68,Male,Tianjin,Platinum,11,949.77,Home Goods,2023/10/13 16:48,Unemployed,2,1,6.5
+31932,22,nan,Jinan,Bronze,3,4213.36,Clothing,2023/5/5 22:15,Unemployed,21,0,6.5
+37814,54,Male,Qingdao,Bronze,5,3565.25,Home Goods,2023/2/20 17:02,Retired,22,0,6.5
+71863,68,Female,Dalian,Silver,2,6864.87,Clothing,2023/9/3 11:58,Self-Employed,26,1,6.5
+40815,48,Female,Shenzhen,Bronze,11,485.3,Electronics,2023/8/28 10:58,Professional,26,0,6.5
+40264,59,Male,Dalian,Platinum,4,635.12,Clothing,2023/4/1 5:52,Professional,8,1,6.5
+83857,50,Female,Dalian,Bronze,9,492.39,Home Goods,2023/8/14 21:41,Professional,16,0,6.5
+68592,48,Female,Changsha,Platinum,5,1245.22,Electronics,2023/1/28 6:38,Student,13,0,6.5
+99667,57,nan,Quanzhou,Silver,5,120.46,Electronics,2023/6/9 1:37,Unemployed,5,0,6.5
+88122,36,Male,Fuzhou,Platinum,2,257.18,Clothing,2023/1/29 13:44,Student,2,0,6.5
+49400,62,Male,Shanghai,Platinum,5,456.34,Clothing,2023/10/30 16:31,Student,27,1,6.5
+11925,65,Female,Shenzhen,Bronze,7,325.11,Clothing,2023/8/29 8:54,Student,10,0,6.5
+28657,64,Female,Quanzhou,Gold,8,634.39,Home Goods,2023/11/12 8:44,Student,10,1,6.5
+79828,36,Female,Hefei,Platinum,7,315.78,Clothing,2023/2/27 16:47,Self-Employed,9,0,6.5
+79177,62,Male,Tianjin,Gold,9,2963.11,Clothing,2023/6/20 0:04,Student,2,0,6.5
+97672,64,Female,Shenzhen,Platinum,5,485.25,Home Goods,2023/7/4 9:01,Professional,13,0,6.5
+32185,61,Female,Taiyuan,Platinum,7,921.77,Electronics,2023/9/3 16:27,Retired,22,1,139.57
+91014,42,Male,Xiamen,Bronze,3,245.8,Electronics,2023/9/25 9:51,Retired,26,0,6.5
+23518,23,Female,Shijiazhuang,Gold,5,1533.84,Electronics,2023/11/5 14:23,Student,24,1,6.5
+66040,64,Female,Beijing,Silver,6,619.55,Home Goods,2023/5/17 5:35,Unemployed,15,0,6.5
+32032,28,Female,Nanchang,Silver,8,131.49,Home Goods,2023/10/5 13:45,Self-Employed,20,0,6.5
+78345,56,Female,Zhengzhou,Silver,7,27.95,Home Goods,2023/7/7 11:40,Self-Employed,20,0,6.5
+44016,60,Female,Shanghai,Platinum,3,366.46,Home Goods,2023/9/10 14:16,Student,4,0,6.5
+94380,19,Male,Chongqing,Platinum,5,649.56,Home Goods,2023/7/8 8:49,Student,19,0,6.5
+96261,29,Male,Tianjin,Silver,3,720.26,Clothing,2023/5/13 18:18,Unemployed,27,0,6.5
+32733,29,Female,Shijiazhuang,Platinum,9,172.83,Electronics,2023/5/17 7:36,Unemployed,13,0,6.5
+66294,51,Female,Changsha,Silver,10,811.68,Electronics,2023/10/17 7:28,Self-Employed,9,0,6.5
+90681,56,Male,Zhengzhou,Platinum,4,141.87,Electronics,2023/2/8 1:01,Unemployed,21,0,6.5
+38001,61,Female,Shenzhen,Gold,8,56.14,Clothing,2023/1/14 6:19,Unemployed,14,0,6.5
+78309,69,Male,Zhengzhou,Gold,4,2468.44,Electronics,2023/6/15 12:01,Professional,2,0,6.5
+94154,49,Female,Nanjing,Gold,4,2530.43,Home Goods,2023/10/20 7:46,Student,29,0,6.5
+44491,47,Male,Shijiazhuang,Platinum,6,1918.12,Electronics,2023/6/26 17:14,Unemployed,4,0,6.5
+62697,61,Male,Xi'an,Gold,5,342.95,Home Goods,2023/5/27 5:37,Unemployed,20,0,6.5
+37962,40,Female,Hangzhou,Silver,4,2879.9,Electronics,2023/7/20 7:30,Self-Employed,9,0,6.5
+53042,32,Male,Nanjing,Gold,3,219.39,Electronics,2023/10/9 0:35,Student,23,0,0
+71549,60,Male,Quanzhou,Platinum,6,113.46,Clothing,2023/2/4 16:19,Student,29,1,6.5
+80004,35,Female,Hefei,Gold,9,1253.13,Home Goods,2023/12/4 19:08,Retired,10,0,6.5
+10242,24,Female,Beijing,Platinum,4,168.15,Home Goods,2023/6/7 16:11,Retired,18,1,6.5
+38083,56,Male,Chongqing,Platinum,6,2452.62,Electronics,2023/10/4 1:05,Unemployed,24,1,6.5
+63377,58,Female,Xiamen,Bronze,4,4155.04,Electronics,2023/6/16 21:34,Self-Employed,13,0,6.5
+19698,62,Male,Zhengzhou,Platinum,3,1956.03,Home Goods,2023/2/14 15:19,Student,16,0,6.5
+27791,24,Male,Harbin,Gold,8,2213,Electronics,2023/1/11 19:21,Unemployed,26,0,6.5
+11641,68,Male,Chongqing,Bronze,5,1256.04,Home Goods,2023/12/14 15:43,Self-Employed,15,1,6.5
+58151,,Male,Nanchang,Gold,9,2682.13,Home Goods,2023/3/10 4:34,Retired,22,0,6.5
+73322,40,Female,Urumqi,Platinum,10,140.17,Electronics,2023/1/6 13:27,Retired,16,0,6.5
+98813,38,Male,Wuhan,Platinum,10,382.71,Electronics,2023/12/19 9:36,Student,24,0,6.5
+10184,41,Female,Shijiazhuang,Gold,6,1023.52,Home Goods,2023/11/1 18:46,Retired,8,1,6.5
+65187,44,Male,Guangzhou,Silver,4,408.86,Home Goods,2023/5/12 2:14,Student,25,1,6.5
+96576,52,Male,Nanjing,Bronze,2,910.33,Home Goods,2023/10/1 21:50,Unemployed,3,0,6.5
+90509,38,Female,Harbin,Platinum,8,304.62,Clothing,2023/9/20 20:00,Self-Employed,29,1,6.5
+78853,35,Male,Chongqing,Platinum,5,363.83,Clothing,2023/11/9 17:36,Student,9,0,6.5
+10533,44,Female,Shenzhen,Gold,6,1219.72,Electronics,2023/10/7 10:10,Student,29,0,6.5
+95794,69,Male,Shenyang,Bronze,1,94.96,Home Goods,2023/12/21 22:51,Retired,2,0,6.5
+19551,27,Male,Chengdu,Silver,8,62.01,Home Goods,2023/9/16 13:34,Self-Employed,8,0,6.5
+96452,44,Male,Tianjin,Platinum,4,1078.71,Home Goods,2023/9/24 20:21,Professional,27,1,6.5
+25749,34,Male,Shijiazhuang,Bronze,5,292.06,Clothing,2023/7/4 10:18,Self-Employed,13,0,6.5
+89854,31,Male,Changsha,Gold,7,465.73,Clothing,2023/5/11 16:35,Self-Employed,16,0,6.5
+30038,20,Female,Quanzhou,Silver,8,1130.22,Electronics,2023/7/6 17:39,Unemployed,20,0,6.5
+38658,65,Female,Changchun,Silver,6,5.36,Home Goods,2023/11/8 3:09,Self-Employed,16,0,0
+42479,55,Male,Qingdao,Silver,5,1971.36,Home Goods,2023/12/12 22:36,Student,21,1,6.5
+66627,67,Male,Jinan,Silver,3,25.91,Home Goods,2023/4/24 19:57,Self-Employed,21,0,6.5
+87897,19,Male,Tianjin,Bronze,7,2993.52,Electronics,2023/12/9 22:42,Professional,7,0,6.5
+12767,48,Female,Chengdu,Gold,3,27.87,Electronics,2023/6/18 11:18,Self-Employed,28,1,6.5
+81074,53,Male,Xi'an,Gold,4,1006.85,Clothing,2023/6/28 19:20,Unemployed,13,0,6.5
+18628,59,Female,Jinan,Silver,5,1407.99,Electronics,2023/3/15 1:41,Professional,2,0,6.5
+34986,39,Female,Shenzhen,Gold,3,111.75,Home Goods,2023/11/17 15:19,Retired,15,1,6.5
+29743,18,Male,Hefei,Platinum,5,144.49,Clothing,2023/12/30 20:07,Professional,6,0,6.5
+43236,21,Female,Nanjing,Gold,4,403.19,Electronics,2023/12/15 8:46,Unemployed,13,0,351.64
+91355,49,Female,Jinan,Bronze,7,177.99,Clothing,2023/5/28 17:45,Student,2,0,351.64
+19208,47,Female,Urumqi,Bronze,6,1360.07,Clothing,2023/11/10 4:48,Retired,8,1,6.5
+26691,52,Male,Tianjin,Silver,5,357.13,Clothing,2023/6/7 0:51,Self-Employed,12,0,6.5
+85188,63,Male,Beijing,Bronze,2,597.08,Clothing,2023/8/12 21:44,Unemployed,28,1,6.5
+11253,33,Female,Shenyang,Gold,5,1633.42,Clothing,2023/3/1 5:48,Self-Employed,18,1,6.5
+63484,28,Female,Taiyuan,Bronze,6,30.31,Clothing,2023/8/13 10:24,Professional,23,1,6.5
+62615,34,Male,Fuzhou,Silver,6,909.28,Electronics,2023/2/26 19:24,Unemployed,16,0,6.5
+78361,45,Female,Nanjing,Silver,2,327.78,Home Goods,2023/12/20 19:55,Unemployed,21,1,6.5
+42502,18,Female,Nanjing,Gold,4,376.34,Electronics,2023/2/4 8:00,Student,23,0,6.5
+11448,28,Male,Kunming,Silver,5,1149.34,Clothing,2023/1/16 6:13,Retired,14,1,6.5
+88482,40,Male,Shijiazhuang,Platinum,4,319.23,Home Goods,2023/8/11 9:14,Unemployed,22,0,6.5
+72456,57,Male,Shenyang,Gold,5,1477.45,Home Goods,2023/5/24 1:09,Professional,2,0,6.5
+77534,25,Female,Kunming,Bronze,5,161.25,Clothing,2023/12/10 16:32,Student,18,1,6.5
+57006,20,Female,Shenyang,Gold,4,300.77,Home Goods,2023/12/23 18:18,Professional,14,0,6.5
+18807,55,Male,Taiyuan,Platinum,7,353.42,Clothing,2023/1/26 3:22,Unemployed,20,0,6.5
+35360,62,Male,Chongqing,Silver,4,527.04,Home Goods,2023/6/2 8:09,Self-Employed,10,0,6.5
+74541,45,Female,Tianjin,Platinum,7,1051.54,Home Goods,2023/6/29 15:09,Professional,16,1,6.5
+58085,39,Male,Harbin,Platinum,7,181.51,Home Goods,2023/9/25 7:45,Student,19,1,6.5
+38670,63,Male,Shenzhen,Platinum,4,539.1,Home Goods,2023/7/12 5:41,Student,18,0,6.5
+58832,61,Female,Guangzhou,Bronze,4,478.75,Home Goods,2023/12/24 17:06,Professional,20,0,6.5
+42594,25,Male,Harbin,Bronze,3,614.42,Home Goods,2023/9/23 21:38,Unemployed,14,0,6.5
+53003,62,Female,Hangzhou,Bronze,3,934.06,Home Goods,2023/5/25 18:28,Self-Employed,11,1,6.5
+65927,41,Female,Taiyuan,Silver,6,877.78,Home Goods,2023/1/29 14:46,Student,2,1,6.5
+65908,21,Female,Changchun,Silver,8,575.55,Electronics,2023/1/17 20:44,Professional,15,0,6.5
+51577,51,Male,Chongqing,Platinum,8,113.59,Home Goods,2023/2/1 15:03,Professional,6,1,6.5
+14992,42,Male,Changsha,Bronze,4,661.41,Electronics,2023/4/29 20:45,Self-Employed,9,0,6.5
+26167,29,Male,Hangzhou,Bronze,5,2544.69,Electronics,2023/4/20 6:57,Unemployed,28,0,12.76
+62876,67,Male,Chengdu,Platinum,9,29.71,Electronics,2023/9/1 9:02,Unemployed,3,0,12.76
+76283,67,Male,Fuzhou,Bronze,2,634.36,Clothing,2023/10/30 2:02,Retired,13,0,12.76
+60593,61,Female,Kunming,Platinum,8,842.03,Clothing,2023/5/18 18:55,Professional,18,1,6.5
+53674,63,Male,Jinan,Silver,3,2259.69,Clothing,2023/4/4 8:57,Self-Employed,17,0,6.5
+58771,25,Female,Xiamen,Platinum,5,1535.09,Clothing,2023/11/29 1:30,Retired,21,0,6.5
+91276,27,Female,Urumqi,Gold,7,424.12,Home Goods,2023/3/11 12:24,Retired,15,0,6.5
+84592,46,Female,Urumqi,Bronze,3,2799.98,Home Goods,2023/12/7 12:29,Student,14,0,6.5
+39493,65,Male,Shanghai,Silver,4,1616.82,Home Goods,2023/8/19 14:35,Unemployed,22,0,6.5
+70031,35,Male,Changchun,Platinum,5,4791.54,Clothing,2023/4/7 15:50,Unemployed,7,1,6.5
+88478,63,Male,Urumqi,Platinum,6,402.12,Clothing,2023/9/8 0:11,Retired,20,0,6.5
+20682,43,Female,Shanghai,Platinum,9,756.48,Clothing,2023/9/22 0:40,Professional,7,1,35.96
+40180,23,Female,Guangzhou,Silver,6,1947.07,Home Goods,2023/2/13 22:48,Self-Employed,23,0,35.96
+91002,53,Male,Harbin,Gold,7,525.87,Electronics,2023/1/9 14:26,Self-Employed,24,0,35.96
+66509,20,Male,Changsha,Bronze,8,1257.01,Clothing,2023/10/14 10:17,Retired,12,0,35.96
+48446,21,Female,Wuhan,Gold,5,4.85,Electronics,2023/4/14 9:58,Student,15,0,35.96
+92407,24,Female,Hefei,Platinum,4,1261.52,Clothing,2023/8/25 3:13,Student,9,0,35.96
+67626,54,Female,Zhengzhou,Silver,9,443.19,Electronics,2023/5/14 12:24,Retired,1,0,6.5
+34228,42,Male,Wuhan,Bronze,6,1035.62,Home Goods,2023/9/8 18:35,Retired,8,1,6.5
+77302,40,nan,Chongqing,Platinum,4,307.94,Home Goods,2023/11/8 15:13,Retired,22,1,6.5
+53528,,Male,Taiyuan,Bronze,7,1690.9,Electronics,2023/12/31 12:58,Self-Employed,22,1,6.5
+96202,55,Female,Kunming,Silver,5,311.62,Home Goods,2023/7/23 7:21,Retired,21,0,6.5
+86372,46,Female,Guangzhou,Gold,3,2181.38,Electronics,2023/12/19 1:02,Unemployed,6,0,6.5
+44836,28,Female,Shenzhen,Silver,3,935.13,Electronics,2023/8/31 8:53,Unemployed,25,0,6.5
+45481,34,Male,Hefei,Gold,4,1523.95,Home Goods,2023/3/16 13:45,Student,22,1,6.5
+24692,39,Female,Guangzhou,Silver,4,408.87,Clothing,2023/7/15 14:24,Self-Employed,9,1,6.5
+77131,29,Female,Chongqing,Platinum,10,106.75,Home Goods,2023/6/19 4:53,Professional,23,0,6.5
+17887,44,Female,Beijing,Silver,5,504.03,Electronics,2023/12/6 15:24,Self-Employed,10,0,6.5
+75947,21,Male,Beijing,Gold,3,1786.68,Clothing,2023/12/23 7:34,Professional,15,1,6.5
+59868,52,Female,Hangzhou,Gold,4,1395.17,Electronics,2023/4/26 11:19,Student,17,0,6.5
+59854,51,Female,Changchun,Silver,3,3688.85,Home Goods,2023/7/19 18:46,Retired,1,0,6.5
+68530,19,Female,Tianjin,Platinum,5,0.67,Electronics,2023/1/22 9:23,Professional,21,0,6.5
+66926,22,Female,Jinan,Silver,3,1488.6,Home Goods,2023/1/18 23:36,Student,6,0,6.5
+12891,23,Male,Shijiazhuang,Platinum,4,2117.6,Electronics,2023/4/26 19:15,Unemployed,8,1,6.5
+26276,45,Female,Chongqing,Gold,2,418.31,Home Goods,2023/5/23 10:46,Self-Employed,27,0,6.5
+94391,47,Male,Shenyang,Platinum,3,185.41,Electronics,2023/6/17 17:48,Student,19,1,6.5
+72184,25,Male,Changchun,Bronze,3,581.23,Electronics,2023/7/14 12:06,Retired,8,1,6.5
+59210,23,Female,Nanchang,Bronze,7,273.91,Home Goods,2023/6/8 7:50,Professional,9,0,6.5
+76862,68,Male,Tianjin,Gold,3,316.46,Electronics,2023/10/10 10:26,Unemployed,17,0,6.5
+87495,34,Female,Shenyang,Gold,4,494.26,Home Goods,2023/1/14 17:02,Student,7,0,6.5
+28064,64,Female,Taiyuan,Platinum,4,940.76,Home Goods,2023/3/17 5:19,Professional,9,0,6.5
+78570,40,Female,Shijiazhuang,Platinum,4,186.19,Home Goods,2023/6/16 2:48,Self-Employed,17,0,6.5
+31719,45,Female,Chongqing,Gold,1,1466.89,Home Goods,2023/4/27 10:03,Professional,7,1,6.5
+56478,47,Female,Shanghai,Silver,4,2879.48,Home Goods,2023/2/11 1:28,Retired,16,1,6.5
+46387,21,nan,Nanchang,Silver,3,81.64,Electronics,2023/4/27 20:23,Unemployed,6,0,6.5
+47177,44,Female,Taiyuan,Silver,4,623.75,Electronics,2023/2/19 19:43,Self-Employed,28,0,6.5
+61325,46,Male,Taiyuan,Gold,6,1529.38,Electronics,2023/10/12 10:38,Self-Employed,13,0,6.5
+88162,28,Male,Nanchang,Silver,1,1007.44,Electronics,2023/10/7 18:56,Student,13,0,6.5
+10712,67,Male,Qingdao,Silver,2,678.87,Home Goods,2023/5/13 3:56,Professional,4,0,6.5
+13034,41,Male,Shanghai,Bronze,3,273.21,Home Goods,2023/11/8 19:17,Retired,15,0,6.5
+93429,43,Female,Jinan,Gold,3,620.5,Electronics,2023/5/29 22:48,Unemployed,1,0,6.5
+33720,38,Female,Wuhan,Bronze,4,2446.71,Home Goods,2023/8/16 15:24,Student,27,0,6.5
+24153,64,Male,Quanzhou,Platinum,7,2732.14,Home Goods,2023/2/18 6:39,Self-Employed,26,0,6.5
+13742,44,Male,Guangzhou,Bronze,6,775.71,Home Goods,2023/5/5 21:20,Unemployed,17,0,6.5
+80548,52,Female,Wuhan,Gold,6,62.68,Clothing,2023/3/5 18:28,Unemployed,15,0,6.5
+78600,31,Female,Shenyang,Bronze,5,30.22,Clothing,2023/7/9 1:32,Professional,24,1,6.5
+52202,69,Male,Shanghai,Bronze,3,1542.36,Home Goods,2023/3/17 2:07,Self-Employed,22,0,6.5
+19136,59,Male,Changchun,Platinum,8,252.32,Home Goods,2023/1/9 3:31,Retired,24,1,28.78
+56232,48,Male,Urumqi,Gold,1,2536.7,Home Goods,2023/5/20 19:28,Unemployed,14,0,6.5
+92055,30,Female,Wuhan,Gold,11,777.15,Clothing,2023/5/25 9:05,Professional,8,0,6.5
+96253,24,Female,Xiamen,Bronze,7,1280.03,Clothing,2023/6/20 8:57,Self-Employed,4,0,6.5
+26004,33,Female,Changsha,Bronze,4,3241.34,Clothing,2023/7/31 9:43,Unemployed,23,0,6.5
+23840,40,Male,Changsha,Platinum,7,113.73,Clothing,2023/4/13 4:37,Professional,25,1,6.5
+52882,68,Male,Chongqing,Gold,4,1986.78,Electronics,2023/9/25 19:19,Unemployed,15,0,6.5
+72327,39,Male,Shijiazhuang,Platinum,8,1090.23,Home Goods,2023/1/8 12:51,Self-Employed,3,0,6.5
+66929,51,Female,Guangzhou,Gold,7,354.12,Home Goods,2023/2/23 5:36,Professional,16,0,6.5
+82854,34,Male,Quanzhou,Bronze,7,1012.47,Home Goods,2023/1/12 17:21,Student,1,1,6.5
+67275,40,Male,Chengdu,Platinum,6,1057.79,Clothing,2023/2/16 22:57,Self-Employed,17,0,6.5
+28541,53,Male,Nanjing,Bronze,12,1260.16,Home Goods,2023/2/2 10:00,Unemployed,19,0,6.5
+13391,18,Female,Nanjing,Silver,4,513.01,Electronics,2023/5/4 21:01,Student,28,1,6.5
+90635,19,Female,Quanzhou,Gold,4,979.63,Electronics,2023/4/14 19:49,Student,17,0,6.5
+53807,42,Male,Fuzhou,Platinum,5,3157.87,Home Goods,2023/10/12 0:17,Retired,7,0,6.5
+48266,18,Male,Tianjin,Platinum,5,291.02,Home Goods,2023/12/15 19:25,Student,20,1,6.5
+33151,59,Female,Beijing,Platinum,6,437.16,Home Goods,2023/4/21 20:00,Student,18,0,6.5
+60730,64,Female,Taiyuan,Platinum,6,354.78,Home Goods,2023/7/11 8:27,Self-Employed,22,0,6.5
+65618,63,Male,Shenzhen,Gold,5,1207.36,Electronics,2023/1/27 9:32,Retired,3,0,6.5
+17335,,Female,Tianjin,Silver,4,1622.74,Electronics,2023/6/21 15:05,Professional,9,1,6.5
+18393,54,Female,Xi'an,Platinum,4,978.97,Home Goods,2023/3/18 19:41,Student,21,0,35.96
+40261,52,Female,Tianjin,Platinum,3,562.16,Home Goods,2023/12/10 17:33,Professional,21,0,35.96
+49379,55,Female,Beijing,Silver,7,693.77,Clothing,2023/3/7 8:13,Student,22,0,6.5
+34878,65,Male,Changchun,Gold,4,579.43,Electronics,2023/5/4 18:05,Retired,13,1,6.5
+84640,46,Male,Chengdu,Gold,6,173.94,Home Goods,2023/9/7 3:01,Self-Employed,19,0,6.5
+19343,47,Female,Chengdu,Bronze,5,159.35,Electronics,2023/7/29 4:08,Student,24,1,6.5
+76043,59,Male,Nanjing,Gold,7,1900.55,Home Goods,2023/12/21 23:53,Unemployed,11,0,6.5
+67385,65,Female,Changchun,Gold,8,421.66,Clothing,2023/2/5 13:27,Student,10,0,6.5
+35722,54,Male,Shijiazhuang,Bronze,2,538.94,Electronics,2023/4/16 9:09,Retired,20,0,6.5
+89466,26,Male,Jinan,Gold,3,394.91,Clothing,2023/3/14 8:10,Self-Employed,10,1,6.5
+70481,37,nan,Nanchang,Platinum,2,94.46,Clothing,2023/5/29 6:19,Self-Employed,7,0,6.5
+82532,41,Female,Fuzhou,Platinum,5,396.72,Home Goods,2023/11/16 7:59,Self-Employed,27,1,6.5
+11049,42,Female,Jinan,Gold,4,814.97,Electronics,2023/8/31 2:52,Student,6,0,6.5
+71347,46,Female,Shijiazhuang,Platinum,1,361.71,Electronics,2023/12/29 16:30,Self-Employed,4,0,6.5
+76409,67,Male,Chongqing,Bronze,3,15.36,Home Goods,2023/10/30 6:40,Unemployed,17,1,35.3
+64276,36,Female,Harbin,Bronze,7,1344.05,Home Goods,2023/2/12 3:04,Professional,1,1,35.3
+66864,21,Female,Harbin,Gold,4,878.76,Home Goods,2023/4/16 22:41,Self-Employed,16,1,35.3
+99921,50,Female,Dalian,Gold,6,305.47,Electronics,2023/8/17 23:34,Self-Employed,21,0,35.3
+53253,46,Male,Wuhan,Bronze,7,312.32,Electronics,2023/9/9 13:07,Self-Employed,26,0,6.5
+86828,43,Female,Zhengzhou,Bronze,7,405.82,Clothing,2023/9/12 2:13,Self-Employed,17,1,6.5
+59139,29,Male,Shenyang,Gold,4,564.53,Clothing,2023/12/22 3:22,Professional,9,0,6.5
+84859,63,Female,Harbin,Bronze,2,3255.27,Home Goods,2023/1/25 11:57,Student,1,1,6.5
+62677,18,Female,Shijiazhuang,Platinum,6,4102.13,Electronics,2023/11/5 20:13,Unemployed,5,0,6.5
+52677,67,Male,Harbin,Platinum,8,1014.14,Clothing,2023/3/22 11:17,Unemployed,12,0,6.5
+75456,49,Male,Hangzhou,Gold,6,2429.71,Home Goods,2023/6/24 18:32,Student,4,0,0
+22427,44,Male,Quanzhou,Silver,4,2286.18,Home Goods,2023/10/29 23:40,Unemployed,16,1,0
+67844,24,Male,Nanjing,Gold,8,1891.3,Clothing,2023/2/12 19:50,Retired,10,1,0
+91177,44,Male,Zhengzhou,Bronze,4,2618,Electronics,2023/6/26 14:52,Self-Employed,9,0,6.5
+84402,26,Female,Hangzhou,Gold,8,70.79,Electronics,2023/4/5 15:02,Student,18,0,6.5
+35672,45,Male,Guangzhou,Silver,7,80.21,Clothing,2023/10/17 12:43,Self-Employed,3,1,6.5
+27970,41,Male,Shenyang,Gold,6,968.06,Electronics,2023/10/24 9:28,Retired,23,0,6.5
+99114,58,Female,Changchun,Gold,7,98.15,Home Goods,2023/9/3 22:05,Retired,8,0,6.5
+43060,44,Female,Urumqi,Bronze,7,203.89,Home Goods,2023/10/20 3:11,Student,7,0,6.5
+89019,45,Female,Nanjing,Silver,3,1890.34,Clothing,2023/5/25 5:51,Self-Employed,2,0,6.5
+42057,23,Female,Shijiazhuang,Silver,4,1862.94,Clothing,2023/1/21 17:26,Professional,28,0,13.78
+46004,54,Female,Shenzhen,Platinum,8,4096.53,Home Goods,2023/8/2 18:53,Student,4,1,13.78
+53233,42,Female,Nanchang,Bronze,3,3849.38,Clothing,2023/1/27 22:25,Self-Employed,11,1,6.5
+67186,31,Female,Qingdao,Gold,10,200.35,Home Goods,2023/12/26 14:08,Professional,6,0,6.5
+12584,64,Male,Guangzhou,Silver,5,1034.65,Home Goods,2023/2/28 20:01,Unemployed,5,1,6.5
+16762,30,Female,Tianjin,Platinum,5,688.67,Electronics,2023/12/21 11:33,Unemployed,20,0,6.5
+76453,64,Male,Changchun,Platinum,8,55.25,Clothing,2023/3/2 20:45,Self-Employed,21,0,6.5
+91401,28,Female,Kunming,Gold,6,3114.6,Electronics,2023/9/12 12:46,Self-Employed,1,0,6.5
+33073,27,Male,Chengdu,Bronze,4,1246.17,Home Goods,2023/8/6 14:43,Professional,10,0,6.5
+11497,41,Male,Chengdu,Gold,3,2266.87,Electronics,2023/8/29 16:05,Unemployed,6,1,6.5
+40284,43,Male,Fuzhou,Gold,5,275.32,Clothing,2023/1/11 9:31,Self-Employed,3,1,6.5
+72380,19,Female,Hangzhou,Silver,3,580.79,Electronics,2023/7/16 14:37,Self-Employed,5,0,6.5
+32840,27,Male,Tianjin,Gold,5,262.01,Home Goods,2023/12/29 12:26,Unemployed,11,0,6.5
+73169,22,Male,Shijiazhuang,Silver,4,2424.99,Electronics,2023/12/8 11:34,Unemployed,4,1,6.5
+11226,68,Female,Dalian,Silver,6,232.95,Clothing,2023/6/18 13:02,Unemployed,28,0,6.5
+44048,24,Male,Taiyuan,Bronze,9,748.15,Home Goods,2023/1/21 10:32,Student,28,0,6.5
+25980,59,Female,Kunming,Platinum,5,877.21,Home Goods,2023/4/9 6:27,Student,1,0,6.5
+25670,63,Female,Guangzhou,Gold,6,1510.87,Clothing,2023/11/16 4:56,Retired,4,1,6.5
+88588,62,Male,Shenyang,Platinum,7,135.36,Clothing,2023/6/25 20:28,Retired,24,0,6.5
+23535,51,Male,Hangzhou,Platinum,4,511.59,Electronics,2023/11/2 15:39,Student,20,0,6.5
+10375,28,Female,Guangzhou,Bronze,7,325.94,Electronics,2023/3/20 1:43,Retired,23,0,35.96
+93552,33,Male,Changchun,Platinum,2,212.02,Electronics,2023/11/20 15:04,Unemployed,26,0,35.96
+67297,32,Male,Fuzhou,Platinum,4,870.93,Electronics,2023/9/28 17:40,Unemployed,8,0,8.7
+77332,64,Male,Nanchang,Gold,4,1046.06,Clothing,2023/8/30 23:52,Professional,13,0,6.5
+82795,54,Male,Fuzhou,Bronze,1,2135.43,Electronics,2023/12/28 21:10,Self-Employed,10,1,6.5
+41261,32,Male,Tianjin,Silver,6,1491.17,Electronics,2023/9/29 21:32,Student,18,0,6.5
+36365,45,Male,Beijing,Platinum,3,137.89,Home Goods,2023/1/13 5:45,Self-Employed,13,1,213.13
+73421,62,Male,Nanjing,Silver,6,2248.86,Home Goods,2023/6/17 4:32,Retired,7,0,213.13
+53102,39,Female,Guangzhou,Gold,5,1437.18,Clothing,2023/7/9 13:30,Retired,21,0,213.13
+14196,62,Female,Shenyang,Bronze,7,82.09,Home Goods,2023/2/9 3:15,Retired,12,0,213.13
+20197,,Female,Xi'an,Gold,4,6.88,Clothing,2023/11/24 0:54,Unemployed,15,0,6.5
+49606,47,Female,Nanchang,Platinum,4,1856.53,Home Goods,2023/5/7 9:33,Unemployed,8,0,6.5
+33015,60,Male,Chengdu,Gold,3,1167.29,Clothing,2023/8/21 15:51,Unemployed,15,0,6.5
+70101,66,Female,Harbin,Silver,2,480.35,Home Goods,2023/12/11 4:58,Unemployed,4,0,6.5
+46558,18,Female,Taiyuan,Bronze,7,431.3,Home Goods,2023/8/20 19:44,Professional,14,0,6.5
+28712,48,nan,Jinan,Platinum,3,156.33,Clothing,2023/1/23 9:41,Unemployed,19,0,6.5
+16311,47,Male,Changchun,Silver,9,1001.17,Home Goods,2023/10/4 12:07,Retired,3,0,6.5
+81040,38,Female,Shijiazhuang,Silver,0,1101.99,Home Goods,2023/11/18 13:34,Student,17,0,6.5
+30159,64,Male,Hefei,Bronze,5,1527.2,Clothing,2023/5/15 0:45,Unemployed,18,0,6.5
+41895,68,Male,Shenzhen,Bronze,4,1302.26,Clothing,2023/5/12 18:48,Student,7,0,6.5
+48946,45,Female,Guangzhou,Bronze,0,512.52,Home Goods,2023/2/16 20:27,Self-Employed,27,1,6.5
+21301,53,Female,Taiyuan,Bronze,6,190.53,Electronics,2023/11/29 13:01,Self-Employed,10,0,6.5
+83941,25,Male,Nanjing,Platinum,3,1258.1,Home Goods,2023/1/16 18:09,Self-Employed,20,0,6.5
+58855,44,Male,Wuhan,Silver,7,3605.05,Home Goods,2023/6/25 18:32,Self-Employed,6,0,6.5
+78470,22,Male,Taiyuan,Bronze,6,2359.2,Home Goods,2023/9/29 14:38,Retired,25,0,6.5
+33352,29,Female,Taiyuan,Platinum,5,544.65,Home Goods,2023/12/1 20:41,Student,27,1,6.5
+62193,27,Male,Beijing,Gold,4,688.35,Electronics,2023/7/12 16:16,Unemployed,3,0,6.5
+10937,42,Male,Nanjing,Silver,7,3576.17,Clothing,2023/2/1 0:01,Retired,5,0,6.5
+96723,69,Male,Shanghai,Gold,3,1544.96,Home Goods,2023/7/27 9:45,Unemployed,4,0,6.5
+67417,63,Male,Jinan,Platinum,4,1582.67,Electronics,2023/3/30 18:06,Self-Employed,2,1,6.5
+77265,44,Male,Xiamen,Bronze,8,391.63,Clothing,2023/8/20 6:20,Student,29,0,6.5
+64085,59,Male,Kunming,Silver,5,611.84,Clothing,2023/9/20 20:41,Student,22,0,6.5
+23892,50,Female,Beijing,Platinum,6,266.53,Electronics,2023/6/16 2:01,Unemployed,15,0,6.5
+23971,29,Male,Nanjing,Platinum,4,249.96,Electronics,2023/12/8 8:21,Self-Employed,22,1,6.5
+27560,38,Male,Hangzhou,Platinum,3,1750.32,Home Goods,2023/7/2 23:07,Student,5,0,6.5
+47037,63,Female,Hangzhou,Bronze,1,2997.57,Home Goods,2023/4/16 5:46,Professional,8,0,6.5
+55528,33,Male,Beijing,Gold,4,2204.85,Home Goods,2023/7/22 9:31,Unemployed,2,0,6.5
+23752,48,nan,Guangzhou,Platinum,7,337.67,Clothing,2023/7/17 9:46,Unemployed,17,0,6.5
+13307,57,Male,Zhengzhou,Gold,4,91.45,Clothing,2023/1/17 7:51,Student,18,0,6.5
+53015,25,Male,Chongqing,Platinum,5,182.23,Home Goods,2023/5/31 5:03,Unemployed,11,1,6.5
+69442,55,Female,Changchun,Silver,6,374.68,Clothing,2023/11/19 12:02,Self-Employed,21,0,6.5
+88895,52,Male,Shijiazhuang,Bronze,3,1718.29,Home Goods,2023/3/7 0:57,Unemployed,25,1,6.5
+21685,35,Male,Changchun,Bronze,3,3104.36,Electronics,2023/1/19 18:30,Unemployed,18,1,6.5
+82979,60,Male,Chengdu,Gold,3,871.83,Electronics,2023/1/17 16:06,Self-Employed,1,0,6.5
+99804,31,Female,Fuzhou,Platinum,6,919.14,Electronics,2023/2/20 18:04,Retired,26,1,6.5
+29741,34,Male,Qingdao,Bronze,8,1112.53,Electronics,2023/9/4 1:25,Student,23,0,6.5
+63455,23,Male,Changsha,Silver,6,3103.65,Home Goods,2023/10/28 21:39,Student,1,1,6.5
+18364,52,Male,Urumqi,Gold,4,627.99,Home Goods,2023/7/26 19:24,Professional,2,1,6.5
+90250,59,Male,Quanzhou,Silver,2,3733.25,Home Goods,2023/4/8 19:12,Student,7,1,6.5
+78707,37,Male,Beijing,Bronze,3,290.65,Home Goods,2023/7/10 20:21,Student,18,0,6.5
+88381,37,Male,Urumqi,Platinum,5,2145.37,Electronics,2023/2/12 18:54,Self-Employed,17,0,6.5
+50769,31,Male,Shijiazhuang,Platinum,6,196.05,Home Goods,2023/4/28 2:44,Student,26,0,6.5
+97501,38,Male,Changsha,Platinum,8,335.84,Electronics,2023/10/29 4:40,Retired,8,0,6.5
+17040,26,Male,Beijing,Bronze,4,544.64,Electronics,2023/3/23 23:17,Unemployed,22,1,6.5
+10964,58,Male,Wuhan,Bronze,8,107.14,Clothing,2023/9/6 13:00,Professional,26,0,6.5
+73803,53,Male,Changchun,Gold,4,1268.33,Electronics,2023/1/8 2:53,Unemployed,18,0,6.5
